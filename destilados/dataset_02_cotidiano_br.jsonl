@@ -250,3 +250,253 @@
 {"instruction": "Qual a função do CPF e como posso obter um?", "output": "O CPF (Cadastro de Pessoas Físicas) é um documento essencial para identificar pessoas no Brasil, utilizado em transações financeiras, matrículas em instituições de ensino, compras a prazo e declaração de imposto de renda. Ele pode ser solicitado desde o nascimento, geralmente durante o registro civil, ou posteriormente em agências dos Correios, Banco do Brasil ou Caixa Econômica Federal. Adolescentes também podem solicitar o CPF de forma independente."}
 {"instruction": "Explique a diferença entre IPVA e licenciamento de veículo de forma clara e simples.", "output": "O IPVA é um imposto anual cobrado pelo estado por possuir um veículo. Já o licenciamento é uma taxa anual que permite a renovação do documento do carro (CRLV), comprovando que ele está em condições legais para circular. Enquanto o IPVA é uma contribuição fiscal, o licenciamento é uma autorização para manter o veículo legalizado. Não pagar o IPVA pode impedir o licenciamento, resultando em multas ou até apreensão do veículo."}
 {"instruction": "Explique o que é o FGTS e como funciona o saque.", "output": "O FGTS (Fundo de Garantia do Tempo de Serviço) é uma reserva financeira criada para proteger o trabalhador. Todo mês, o empregador deposita 8% do salário do funcionário em uma conta vinculada na Caixa Econômica Federal. Esse dinheiro não pode ser sacado livremente, mas está disponível em situações específicas, como demissão sem justa causa, compra da casa própria, aposentadoria ou tratamento de doenças graves. Além disso, o valor depositado rende juros e correção monetária, servindo como uma segurança financeira para o trabalhador."}
+{"instruction": "O sol vai dar uma trégua amanhã?", "output": "Parece que sim, o tempo deve ficar mais nublado à tarde."}
+{"instruction": "Bora tomar umas caicas depois do trabalho?", "output": "Vamo! Mas só uma rodada pra não amanhecer na rua."}
+{"instruction": "Será que vai dar pra fazer churrasco no fim de semana?", "output": "Tá prometendo chuva, mas se abrir o sol, top!"}
+{"instruction": "Comer pizza com feijão é esquisito?", "output": "Nada a ver, cada um no seu quadrado, né? Pizza é pizza e feijão é feijão."}
+{"instruction": "O trânsito tá brabo na Anchieta?", "output": "Na hora do rush tá engarrafado, melhor pegar a outra via."}
+{"instruction": "O que tu tá ouvindo hoje?", "output": "Peguei umas vibes antigas do Legião, tá rolando suave."}
+{"instruction": "Vai ter feijoada no almoço?", "output": "Já tamo de olho nela! Só falta o lombo."}
+{"instruction": "Essa blusa serve pra hoje?", "output": "Se tá fazendo um friozinho, serve sim, não vai passar vergonha."}
+{"instruction": "Qual tá mais difícil: ônibus ou metrô hoje?", "output": "Ônibus tá uma bagunça, metrô pelo menos tá cheio, mas tá funcionando."}
+{"instruction": "A galera já tá mandando mensagem ou tá de ressaca?", "output": "Algumas já acordaram, outras ainda tamo no modo hibernar."}
+{"instruction": "Esse calor vai passar ou é pra ficar?", "output": "Nada, essa semana acho que vai esfriar só na sexta."}
+{"instruction": "Já almoçou?", "output": "Não, só tomei um café com pão. To na espera."}
+{"instruction": "Como tá o trânsito hoje?", "output": "De manhã tá bem ruim, mas depois do almoço costuma melhorar."}
+{"instruction": "Que bicho deu no motorista pra andar tão devagar?", "output": "Deve ser alguém parando pra ver acidente ou celular caído."}
+{"instruction": "Vai chover?", "output": "Parece que vai chover no final da tarde."}
+{"instruction": "Comendo o quê?", "output": "Arroz, feijão e ovo frito, básico do básico."}
+{"instruction": "Vai pro jogo hoje?", "output": "Com certeza! Tô contando as horas."}
+{"instruction": "Qual aquele som de carro lá de baixo?", "output": "Acho que é o Zé do prédio, ele tá com um sistema de som novo."}
+{"instruction": "Tá a fim de sair?", "output": "Vou ver um filme em casa, tô meio preguiçoso."}
+{"instruction": "Você já se cadastrou no Pix?", "output": "Sim, já fiz o cadastro. Minha chave é o e-mail, tudo certo."}
+{"instruction": "Fechou o guarda-chuva?", "output": "Fechou sim, tô secando só de olhar pra rua."}
+{"instruction": "A feira já tá aberta?", "output": "Já abriu faz tempo, tá cheia de coisa boa."}
+{"instruction": "Vai ter trânsito hoje?", "output": "Nessa hora? Com certeza vai estar um inferno."}
+{"instruction": "Tomou café?", "output": "Tomei sim, sem café eu fico meio perdido."}
+{"instruction": "Vai chover ou é só ameaça?", "output": "Disseram que não vai chover, mas eu vou levar o guarda-chuva só por precaução."}
+{"instruction": "Que horas fecha o mercado?", "output": "Fechou às seis, mas hoje estava meio vazio."}
+{"instruction": "Comendo o quê?", "output": "Arroz com ovo frito, tá valendo pra hoje."}
+{"instruction": "Tá indo pra facul a pé ou tá pegando app?", "output": "Vou a pé, tá perto e economiza o troco."}
+{"instruction": "Tá frio aí?", "output": "Ô, tá gelado, véi! Bota um casaco."}
+{"instruction": "Você já conseguiu resolver o problema?", "output": "Consegui sim, foi mais fácil do que eu imaginava."}
+{"instruction": "E aê, vai chover hoje?", "output": "Acho que não, o céu tá bem limpo."}
+{"instruction": "Comê o quê amanhã?", "output": "Tava pensando em fazer um macarrão com molho à bolonhesa."}
+{"instruction": "O trânsito estava ruim?", "output": "Nem me fale, estava um caos no Anel Viário."}
+{"instruction": "Vai dar praia no fim de semana?", "output": "Dizem que o sol vai aparecer, vai ser ótimo!"}
+{"instruction": "Já fez aquele café?", "output": "Já tô no terceiro, parece que não tira o sono."}
+{"instruction": "E essa gíria 'tamo junto'?", "output": "É tipo 'estou contigo', só que mais informal, sabe?"}
+{"instruction": "Saiu cedo ou chegou atrasado?", "output": "Cheguei quase atrasado, mas sair cedo foi bem difícil."}
+{"instruction": "Vai no mercado depois?", "output": "Vou sim, preciso comprar leite e ovos."}
+{"instruction": "Como foi a comida do rodízio?", "output": "Mandou bem, só o contrafilé tava um pouco seco."}
+{"instruction": "Bora tomar umas geladinhas?", "output": "Boa ideia, mas só se for antes do jantar pra não estragar o apetite."}
+{"instruction": "Faz muito calor hoje, né?", "output": "Na verdade, tá mais fresquinho que o normal, até dei uma capa pra sair."}
+{"instruction": "Acha que chove logo mais?", "output": "É provável, o céu tá carregado assim."}
+{"instruction": "Já almoçou?", "output": "Ainda não, tô esperando chegar meio-dia."}
+{"instruction": "Como está o trânsito na volta para casa?", "output": "Não, tá um caos na marginal, nem pra ontem."}
+{"instruction": "Tomou aquele café?", "output": "Tomei sim, hoje foi um expresso, só pra dar aquela acordada."}
+{"instruction": "Tem aquela pizza de calabresa pra entregar?", "output": "Acho que sim, deixa eu dar uma olhada no cardápio."}
+{"instruction": "Bora marcar aquele jogo domingo?", "output": "Pode deixar, se não chover eu topo, senão fica pro outro fim de semana."}
+{"instruction": "O que tu tá ouvindo agora?", "output": "É um pagode antigo, tô no modo nostalgia."}
+{"instruction": "Vai pegar greve de ônibus?", "output": "Acho que não, mas sempre tem um atraso a mais nessas épocas."}
+{"instruction": "Esse filme já está na Netflix?", "output": "Ainda não, mas dizem que chega semana que vem."}
+{"instruction": "Será que chove hoje?", "output": "Acho que sim, vi umas nuvens carregadas no céu."}
+{"instruction": "Tem açaí pra comprar por aqui?", "output": "Tem sim, na barraca ali na esquina."}
+{"instruction": "O trânsito tá tranquilo?", "output": "Na hora do almoço ainda tá de boa, mas depois fica pesado."}
+{"instruction": "Bora marcar pra comer uma pizza?", "output": "Com certeza, me chama que eu já vou arrastando."}
+{"instruction": "O que você fez no fim de semana?", "output": "Nada demais, fui dar uma volta no parque e dormi até mais tarde."}
+{"instruction": "Essa roupa tá muito apertada, né?", "output": "Fica sim, arruma uma mais larga."}
+{"instruction": "Vai dar pra chegar no horário?", "output": "Se sair agora dá, mas tá tudo meio corrido."}
+{"instruction": "Tá calor ou frio hoje?", "output": "Mais pro calor, parece até verão."}
+{"instruction": "Tá vendo essa novela?", "output": "Vou dando uma olhada, mas é bem enrolada mesmo."}
+{"instruction": "Vai pra balada hoje?", "output": "Vamo só dar uma circulada, bebê."}
+{"instruction": "Como tá esse sol hoje?", "output": "Nem me fale, tá batendo muito calor!"}
+{"instruction": "Vai chover amanhã?", "output": "Sim, segundo a previsão. Leve um guarda-chuva para não se molhar."}
+{"instruction": "Que horas fecha o mercado?", "output": "Fecha às 20h, mas hoje o pessoal tá ficando até mais tarde."}
+{"instruction": "Bora comer pizza hoje?", "output": "Pode deixar, já tô com água na boca!"}
+{"instruction": "Esse trânsito tá infernal.", "output": "Fica tranquilo, vai melhorar, mas vai demorar um pouco."}
+{"instruction": "Vai pra praia esse fim de semana?", "output": "Se o vento não estiver muito forte, a gente aparece sim."}
+{"instruction": "Que gíria tá na moda agora?", "output": "Fala sério! Todo mundo tá usando 'de boa' e 'tá tranquilo'."}
+{"instruction": "Acordou cedo pra quê?", "output": "Ô, nem te conto, acabei saindo do horário de novo."}
+{"instruction": "Tem umas balas aí?", "output": "Tem sim, pega uma pra refrescar o hálito."}
+{"instruction": "A feira já chegou na rua?", "output": "Já, tá lá desde as 6h, corre que ainda dá pra pegar o melhor preço."}
+{"instruction": "Vai chover hoje?", "output": "Parece que vai, o céu tá bem nublado."}
+{"instruction": "O que tem pra jantar?", "output": "Pensei em fazer uma lasanha congelada, topa?"}
+{"instruction": "Como tá o trânsito?", "output": "Fechou, mano, tá um caos na marginal."}
+{"instruction": "Vai fazer frio essa semana?", "output": "Parece que sim, melhor se preparar com um casaco mais quente."}
+{"instruction": "Já almoçou? Só?", "output": "Já, comi umas sobras do almoço de ontem."}
+{"instruction": "O que significa essa gíria que você usou?", "output": "Tipo, 'bora'? É tipo 'vamos logo' ou 'vamos nessa'."}
+{"instruction": "Tem pipoca aí?", "output": "Não, só salgadinho, quer?"}
+{"instruction": "A aula termina cedo hoje?", "output": "Termina sim, sai às quatro, tranquilo."}
+{"instruction": "Esse ônibus demora muito?", "output": "Depende, às vezes ele vem rápido, outras vezes parece que nunca vai chegar."}
+{"instruction": "Quer tomar um café?", "output": "Quero sim, vamos lá na padaria ali."}
+{"instruction": "Acho que vai chover hoje, hein?", "output": "Tomara que não, tô sem guarda-chuva e já botei a mochila pra secar lá em casa."}
+{"instruction": "O que cê tá comendo aí?", "output": "É só arroz com ovo frito, nada demais. Quer um pouquinho?"}
+{"instruction": "E aí, tá tudo bem no trânsito?", "output": "Hj ta tranquilo, nem parece horário de pico. Peguei uma viação tranquila."}
+{"instruction": "Cê tá a fim de maratonar alguma série?", "output": "To mais pra dormir mesmo, mas se vier algo bom eu topo."}
+{"instruction": "Como é que tá esse calor?", "output": "Mano, tá pegando fogo, parece até forno ali fora. Melhor ficar em casa com o ventilador ligado."}
+{"instruction": "Já almoçou?", "output": "Almocei sim, comi aquele feijãozinho preto com carne seca que minha mãe fez. Tá na hora de jantar?"}
+{"instruction": "O ônibus demora muito?", "output": "Pode ser que demore, ônibus nunca é certeza. Tô só esperando pra ver."}
+{"instruction": "Você conhece essa gíria nova?", "output": "Cara, nem me fala, não tô sabendo de nada. Tudo é 'arrasou', 'tá ligado' e eu já me perco."}
+{"instruction": "Como foi seu dia?", "output": "Foi tranquilo. Acordei cedo, trabalhei e agora tô aqui relaxando."}
+{"instruction": "Vai sair hoje à noite?", "output": "Ainda tô na dúvida. Se fizer frio, nem saio da cama mesmo."}
+{"instruction": "E aí, vai chover hoje?", "output": "Tomara que não, tô saindo com uma roupa que não dá pra chuva."}
+{"instruction": "Sabe que horas fecha a padaria?", "output": "Normalmente fecha lá pelas 20h, mas no fim de semana pode passar um pouco."}
+{"instruction": "A fila do restaurante tá grande?", "output": "Ô, tá comendo moleque! Vai uns 20 na frente, mas se for pra comer o rodízio, vale a espera."}
+{"instruction": "Trânsito pesado na marginal?", "output": "Cara, tá um caos. Melhor pegar o caminho pela beira do rio, é mais tranquilo."}
+{"instruction": "Com vontade de comer o quê?", "output": "Hj bateu uma fome de pizza com calabresa e cebola, clássico."}
+{"instruction": "Vai dar pra sair sem guarda-chuva?", "output": "Se ainda não começou a chover, pode arriscar. Mas o tempo tá meio incerto, então é bom ficar de olho."}
+{"instruction": "Que horas acorda esse povo?", "output": "Depende se tem que pegar trem, aí já tá de pé às 5h. Mas tem quem só levante no almoço."}
+{"instruction": "Esse 'mano' tá muito usado?", "output": "Na boa, já tá virando clichê, mas ninguém larga. Todo mundo usa."}
+{"instruction": "A feira já chegou no bairro?", "output": "Chegou sim! Tem umas goiabas boas e bem baratas."}
+{"instruction": "Bora maratonar alguma série?", "output": "Na boa, deixa eu pegar um snack primeiro. Depois a gente vê."}
+{"instruction": "Como tá esse tempo aí?", "output": "Tá fazendo um solzinho gostoso, sem previsão de chuva."}
+{"instruction": "Já almoçou?", "output": "Ainda não, tô esperando dar uma horinha pro feijão esfriar."}
+{"instruction": "Tá muito longe?", "output": "Mano, é perto se você não estiver no trânsito, senão já era."}
+{"instruction": "Você já bebeu água hoje?", "output": "Bebi, mas nem lembro quantas vezes. Tô mais naquela de café."}
+{"instruction": "O que você vai comer amanhã?", "output": "Acho que vou fazer uma macarronada com ovo frito, bem estilo mineiro."}
+{"instruction": "Saiu com quem?", "output": "Só dei uma volta com os primos no bar, tranquilo."}
+{"instruction": "Tá calor ou frio?", "output": "Tá uma brisa gostosa, nem precisa de ar-condicionado."}
+{"instruction": "Conseguiu pegar o ônibus?", "output": "Peguei, mas estava lotado que nem sardinha em lata."}
+{"instruction": "Vai sair hoje à noite?", "output": "Rola sair pro show, mas só se a grana permitir."}
+{"instruction": "Já deu tchau pro dia?", "output": "Ô, já tô na cama, nem acredito que o dia passou tão rápido."}
+{"instruction": "Esse frio vai durar?", "output": "Acho que sim, tá mais gelado que ovo de pinto por aqui."}
+{"instruction": "Que horas você acordou?", "output": "Acabei de acordar agora, nem tomei café ainda."}
+{"instruction": "Chove hoje?", "output": "Vai molhar sim, melhor levar o guarda-chuva pra não virar sopa."}
+{"instruction": "Vai ter trânsito praia?", "output": "Sim, o trânsito está bem pesado, igualzinho num domingo de Carnaval."}
+{"instruction": "Já almoçou?", "output": "Não, ainda tô na briga com a panela, mas já passou um arrozinho na mente."}
+{"instruction": "Comê o quê?", "output": "Tô pensando em algo rápido, macarrão com ovo e linguiça já resolve."}
+{"instruction": "E aí, rolou?", "output": "Rolou, mas foi bem de boa, tranquilo."}
+{"instruction": "Esse trânsito tá lento demais", "output": "É só pra inglês ver, todo mundo parado igual formiga em dia de chuva."}
+{"instruction": "Está muito quente?", "output": "Tá um calor daqueles que dá vontade de ficar só de shorts e sair por aí sem se preocupar com nada."}
+{"instruction": "Já virou a noite estudando?", "output": "Já, fiquei a noite toda estudando, espero não ficar com olheira amanhã."}
+{"instruction": "Faz calor hoje ou é só eu?", "output": "Mano, tá um calor danado, nem parece inverno. Pega uma água aí."}
+{"instruction": "Já abriu a padaria?", "output": "Acho que sim, costuma abrir às 6. Vou ligar pra confirmar."}
+{"instruction": "Bora comer o quê agora?", "output": "Humm, tô com vontade de um pastel com caldo de cana, e tu?"}
+{"instruction": "O trânsito tá pesado?", "output": "Fechado! Olhei no Waze e já vi que não tá andando nada."}
+{"instruction": "Você sabe o que é bicho?", "output": "Claro, bicho é tipo amigo, camarada. Usamos quando queremos ser simpáticos."}
+{"instruction": "Choveu muito ontem?", "output": "Ô, choveu o quê! O córrego quase transbordou aqui na rua."}
+{"instruction": "Compraram cerveja pra festa?", "output": "Já deixei gelando. Faltou só o salgadinho."}
+{"instruction": "Acordei cedo pra nada?", "output": "Relaxa, acontece. Toma um café e aproveita o dia!"}
+{"instruction": "Esse trânsito tá pra ontem", "output": "Sério, parece que o pessoal tá vindo todo pra cá agora."}
+{"instruction": "Tá tendo feira hoje?", "output": "Acho que sim, deve tá rolando lá na rua da igreja, deu pra ver umas barracas."}
+{"instruction": "Choveu hoje ou foi só ameaça?", "output": "Nem chegou a chover, só deu uma garoa rápida no meio da tarde."}
+{"instruction": "Já comeu aquele pastel de feira?", "output": "Comi sim, tá lá na memória afetiva e no peso da cintura."}
+{"instruction": "Como tá o trânsito aí?", "output": "Tá um inferno, parece até horário de rush de sexta-feira!"}
+{"instruction": "Vai fazer calor essa semana?", "output": "Vai, aquele calor de forno mesmo, capaz de fritar um ovo no asfalto."}
+{"instruction": "Você está assistindo o jogo?", "output": "Na TV sim, mas vou tomar um café pra acompanhar com mais disposição."}
+{"instruction": "Que horas você acorda?", "output": "Meu despertador toca às seis, mas eu já acordo antes por costume."}
+{"instruction": "Bebeu cerveja ontem?", "output": "Ué, claro! Nada melhor pro final de semana que uma geladinha."}
+{"instruction": "Você já assistiu a esse filme?", "output": "Já sim, assisti faz tempo. É daqueles que todo mundo já viu."}
+{"instruction": "Como tá esse frio aí?", "output": "Tá gelado, véi, nem saio da cama sem um casaco pesado."}
+{"instruction": "Tá lotado no mercadinho?", "output": "Ô, tá cheio demais, melhor ir depois que esvaziar um pouco."}
+{"instruction": "Como tá o tempo aí?", "output": "Fazendo um calor de lascar, mas ameaça chover aí pela tarde."}
+{"instruction": "Já almoçou?", "output": "Não, tive problema no trabalho e só comi um sanduíche rápido."}
+{"instruction": "A fila tá andando?", "output": "Ô, nem se fala, tá mais lenta que molho de pipoca."}
+{"instruction": "Vai pegar trânsito?", "output": "Se sair agora, com certeza pega o horário de rush."}
+{"instruction": "O que você comeu?", "output": "Comi macarrão com um molho simples, sem muita enrolação."}
+{"instruction": "Como vai estar o tempo amanhã?", "output": "Parece que vai fazer bastante sol e um calor daqueles, como sempre."}
+{"instruction": "Tá com fome?", "output": "Morrendo de fome, já tava pensando em pedir um delivery."}
+{"instruction": "Aquele filme rola?", "output": "Mano, é um clássico, todo mundo já viu mas vale de novo."}
+{"instruction": "Tá na hora de levantar?", "output": "Se não levantar agora, vai chegar atrasado no bolo."}
+{"instruction": "Vai pra praia esse fim de semana?", "output": "Se o tempo estiver bom, vou sim, nem que seja só pra dar uma passadinha."}
+{"instruction": "Tá chovendo aí?", "output": "Só uma garoinha leve, nada demais."}
+{"instruction": "Alguém aí já comeu aquele pastel da esquina?", "output": "Comi sim, é muito bom! Só toma cuidado com o recheio, às vezes pode variar."}
+{"instruction": "Como está o trânsito na marginal?", "output": "Tá pegado, bicho. Melhor fugir dessa até mais tarde."}
+{"instruction": "Vai fazer frio hoje?", "output": "Sim, tá bem frio, melhor levar um casaco."}
+{"instruction": "Já almoçou?", "output": "Ainda não, tô esperando dar fome mesmo."}
+{"instruction": "Vai ter carnaval no próximo mês?", "output": "Ainda não tem confirmação, mas já começaram os eventos pré-carnaval."}
+{"instruction": "Aquele filme novo já passou?", "output": "Já passou sim, agora tá disponível no Now ou Globoplay."}
+{"instruction": "Tá lotado no mercado?", "output": "Tá cheio, mas nada que não dê pra aguentar."}
+{"instruction": "Vamos tomar umas geladas hoje?", "output": "Claro, mas sem exagero que amanhã tem labuta."}
+{"instruction": "Acabou o café?", "output": "Já, vou ligar pro vizinho pra papear sem café mesmo."}
+{"instruction": "E aí, vai chover hoje?", "output": "Tá prevendo que sim, melhor levar o guarda-chuva mesmo."}
+{"instruction": "E aí, o que você vai comer no almoço?", "output": "Tô pensando em fazer um miojo com ovo, tá ligado?"}
+{"instruction": "E esse trânsito, sério?", "output": "Nossa, tá um caos mesmo, vai demorar bastante."}
+{"instruction": "Onde tu arrumou esse boné?", "output": "Comprei numa feira lá do centro, é baratinho."}
+{"instruction": "Vamo bater um pipa depois?", "output": "Claro, mas só se o vento ajudar."}
+{"instruction": "Mano, esse calor tá doido!", "output": "É, nem parece inverno mais, tô suando horrores."}
+{"instruction": "A churrasqueira tá liberada?", "output": "Pode acender o fogo, hoje é dia de churrasco!"}
+{"instruction": "E esse jogo, arrasou ou não?", "output": "Foi no sufoco, mas a gente levou. No final, deu certo!"}
+{"instruction": "Acabou a mexerica?", "output": "Não, ainda tem umas três ali, tô na terceira."}
+{"instruction": "Vai sair hoje ou tá cansado?", "output": "Tô morto, melhor ficar em casa vendo série."}
+{"instruction": "Será que vai chover hoje?", "output": "Tomara que não, já botei o guarda-chuva em casa de novo!"}
+{"instruction": "Já almoçou?", "output": "Não, tô na correria, só bati um café com pão. Vou comer algo mais tarde."}
+{"instruction": "Trânsito está brabo?", "output": "Pô, tá uma loucura, parece sempre na hora do rush."}
+{"instruction": "Faz frio aí?", "output": "Um pouco, vou botar um casaco pra sair de noite."}
+{"instruction": "Vai pro jogo?", "output": "Vou sim, tô levando a bandeira pro campo!"}
+{"instruction": "Que horas o mercado fecha?", "output": "O mercado fecha às 21h, mas sempre tem alguém que consegue comprar até mais tarde."}
+{"instruction": "Tem feira hoje?", "output": "Tem sim, lá na praça vinte e quatro bem cedo."}
+{"instruction": "Curtindo o feriado?", "output": "É vida de gado, to trabalhando, né?"}
+{"instruction": "Vai comer o quê?", "output": "To pensando numas lasanha congelada mesmo, prático pra caramba."}
+{"instruction": "Bora dar uma volta?", "output": "Bora, mas só depois que eu resolver essa parada aqui."}
+{"instruction": "Será que chove hoje?", "output": "Tô vendo nuvem carregada, pode ser que sim."}
+{"instruction": "Que horas essa padaria abre?", "output": "Ela abre às 6h, mas pode variar um pouco."}
+{"instruction": "Tá tendo qual no almoço?", "output": "Arroz, feijão, bife e salada. E tu?"}
+{"instruction": "Como tá o trânsito na ponte?", "output": "Já tava ruim, agora parece que travou de vez."}
+{"instruction": "Tá ligado na novela?", "output": "Claro que tô, como não vou saber das fofocas?"}
+{"instruction": "Vai chover na próxima semana?", "output": "Não olhei no aplicativo, mas parece que sim, né."}
+{"instruction": "Onde a galera vai no fim de semana?", "output": "Acho que todo mundo tá querendo ir pra praia mesmo."}
+{"instruction": "Tá com fome?", "output": "Com certeza, já tô pensando em qualquer coisa pra comer."}
+{"instruction": "Esse ônibus é direto ou para em muitos lugares?", "output": "Esse ônibus para em todo canto, não é direto não."}
+{"instruction": "Ainda cabe mais um pra mesa?", "output": "Cabe sim, senta aí que vem mais umas bebidas."}
+{"instruction": "Ta chovendo aí?", "output": "Ta sim, mais é essa garoa fininha que nem molha direito."}
+{"instruction": "Já almoçou?", "output": "Ainda to na correria, mas já comi umas coisas, tá tranquilo."}
+{"instruction": "Tá ruim no trânsito?", "output": "Ô, ó, pegou hora do rush e tá um caos, viu!"}
+{"instruction": "Vai ter feijoada hoje?", "output": "Acho que não, só no sábado mesmo, né?"}
+{"instruction": "Qual o papo hoje?", "output": "De boa, só assistindo série e esperando o café fazer efeito."}
+{"instruction": "Esse calor tá insuportável?", "output": "Firula, nem parece inverno, tava de camiseta a tarde inteira."}
+{"instruction": "Vamo tomar umas geladas?", "output": "Com certeza! Vamo lá, tô precisando relaxar mesmo."}
+{"instruction": "Como tá o sinal aí?", "output": "Aqui em casa é fraco, mas no trampo pega legal, sorte sua."}
+{"instruction": "Tá com fome?", "output": "To, to pensando em pedir umas coxinhas ou fazer um miojo."}
+{"instruction": "Tá na hora de correr?", "output": "Tá sim, já calço o tênis e vou pro treino antes que o sol fique muito quente."}
+{"instruction": "E aí, tá chovendo aí?", "output": "Tá mais uma garoa, de boa."}
+{"instruction": "Já almoçou?", "output": "Almocei sim, só feijão com arroz e ovo."}
+{"instruction": "Ô, esse trânsito aí?", "output": "Ficou lento na marginal, pega as laterais."}
+{"instruction": "Vai sair hoje?", "output": "Tô de boa, vou ficar em casa vendo série."}
+{"instruction": "Bora tomar umas geladas?", "output": "Na moral, to sem grana, na próxima."}
+{"instruction": "Como tá o sol hoje?", "output": "Lá fora tá de matar, bateu firme."}
+{"instruction": "Sabe de um lugar bom pra comer pastel?", "output": "Tem um barzinho na esquina que faz pastel ótimo e ainda dá feijão tropeiro de acompanhamento!"}
+{"instruction": "Já fez o vestibular?", "output": "Eca, nem comente, to estudando ainda."}
+{"instruction": "Qual é o melhor app de música?", "output": "Eu curto o Spotify, mas o Deezer também é bem legal."}
+{"instruction": "Tá frio pra caramba?", "output": "Sério? Aqui tá até quente, bota um casaco só."}
+{"instruction": "Vai chover hoje?", "output": "Tomou no paraíso, né? Tô vendo umas nuvens, mas pode ser só ameaça."}
+{"instruction": "O que tem pra comer hoje?", "output": "Só tem arroz com ovo, mas se quiser tem uma pizza congelada também."}
+{"instruction": "Trânsito ruim na marginal?", "output": "Caramba, tá um caos, tá parado há uns 5 km. Se não for urgente, fica fora."}
+{"instruction": "E aí, rolou aquela farra?", "output": "Foi tranquilo, só rolou umas cervejas e funk baixinho."}
+{"instruction": "Bora maratonar hoje?", "output": "Com certeza! Mas só se for uma série boa que eu ainda não conheço, senão é Netflix e sono."}
+{"instruction": "Que horas fecha o mercado?", "output": "Fecha às 21h, mas hoje tá todo mundo enrolado e tava aberto até mais tarde."}
+{"instruction": "Bateu muito frio?", "output": "Gelou demais, tive que botar o casaco pesado. Brrrr!"}
+{"instruction": "Vai ter feira no fim de semana?", "output": "Ô, com certeza! Sábado cedo tem feira de rua lá no bairro."}
+{"instruction": "Já tomou café?", "output": "Já, e nem fui pra cima! Café preto puro já deu moral pra começar."}
+{"instruction": "Como é que faz pra pegar Uber rápido?", "output": "Fica de olho no app e espera aparecer uma opção mais barata, tipo uma promoção."}
+{"instruction": "E aí, vai chover hoje?", "output": "Pode ser que sim, melhor levar um guarda-chuva só por via das dúvidas."}
+{"instruction": "Que horas fecha o mercado?", "output": "Fechou às 18h, já tá fechado faz tempo."}
+{"instruction": "Vamos tomar um café rápido?", "output": "Claro, só pra dar aquela animada, né?"}
+{"instruction": "Como tá esse trânsito?", "output": "Na boa? Engarrafou todinho, vai levar um tempão."}
+{"instruction": "Já almoçou?", "output": "Ainda não, mas já tá na hora de comer."}
+{"instruction": "Essa pizza tá muito apimentada?", "output": "Uai, to sentindo um ardido danado aqui."}
+{"instruction": "Vai ter feijoada no fim de semana?", "output": "Acho que sim, meu pai já tá planejando a farra."}
+{"instruction": "Tá frio pra caramba hoje?", "output": "Arrepia, bicho, nem sair da cama dá vontade."}
+{"instruction": "O que é isso que tu tava comendo?", "output": "É paçoca com banana, uma delícia pra caramba."}
+{"instruction": "Esse seriado é bom?", "output": "Sim, é bem legal e fácil de assistir."}
+{"instruction": "Tá chovendo aí?", "output": "Tá só umas gotinhas, nada demais, ufa."}
+{"instruction": "Já almoçou?", "output": "Ainda não, tô esperando o feijão esfriar um pouco pra comer logo."}
+{"instruction": "Essa rua tá com trânsito feio?", "output": "Mano, tava parado no semáforo lá atrás, agora melhorou um pouco."}
+{"instruction": "Vai sair hoje à noite?", "output": "Só se o cansaço deixar, senão tô na cama vendo Netflix mesmo."}
+{"instruction": "Que tal esse calor?", "output": "É brabo, parece que esqueceram o ventilador na tomada e a geladeira no congelador."}
+{"instruction": "O que você comeu no café da manhã?", "output": "Só comi um pão com manteiga e tomei um café bem forte, pra dar uma animada no dia."}
+{"instruction": "O que você está fazendo?", "output": "Tô lutando contra a preguiça, respondendo umas mensagens e com vontade de comer uma pizza."}
+{"instruction": "Tá usando roupa de frio?", "output": "Ainda não, mas já estou com o casaco na mochila por via das dúvidas."}
+{"instruction": "Vai tomar alguma coisa depois do serviço?", "output": "Pode ser uma breja bem gelada, se a preguiça não bater antes."}
+{"instruction": "Já ouviu falar desse gato?", "output": "Ah, aquele gato do bairro? Tô achando ele mais fofo a cada dia."}
+{"instruction": "Está chovendo aí?", "output": "Agora não, mas está bem abafado, deve chuviscar mais tarde."}
+{"instruction": "Faz calor pra caramba, né?", "output": "Faz sim, nem lembro quando foi a última vez que senti frio de verdade."}
+{"instruction": "O que você comeu no almoço?", "output": "Arroz, feijão e ovo frito, o básico do dia a dia."}
+{"instruction": "Cara, esse trânsito tava doido?", "output": "Tava uma loucura, parecia que tavam fechando avenida toda."}
+{"instruction": "Vai dar pra sair hoje à noite?", "output": "Se não chover, dou um jeito de aparecer."}
+{"instruction": "Qual o melhor programa de hoje?", "output": "Não sei, tudo parece meio sem graça. Talvez pedir uma pizza mais tarde."}
+{"instruction": "Já tomou café?", "output": "Já, amargo que só, sem café não dá nem pra levantar da cama."}
+{"instruction": "Que horas fecha esse mercado?", "output": "Fecha às 21h, mas aos sábados e domingos fecha mais cedo."}
+{"instruction": "Você vai pro jogo amanhã?", "output": "Vou sim, mas só se não der nenhuma confusão."}
+{"instruction": "Você conhece essa gíria que tá na moda?", "output": "Conheço, sim, mas parece que todo dia surge uma nova."}
