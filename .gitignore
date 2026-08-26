@@ -1,0 +1,14 @@
+# Scripts internos - nunca subir
+*.py
+__pycache__/
+
+# Datasets contaminados (gerados por CLI)
+dataset_destilado_claude_max.jsonl
+dataset_destilado_gemini.jsonl
+dataset_destilado_pipeline_a.jsonl
+dataset_destilado_pipeline_b.jsonl
+dataset_destilado_worker_parallel.jsonl
+dataset_destilado_worker_single.jsonl
+dataset_destilado_initial.jsonl
+dataset_destilado_parallel.jsonl
+dataset_destilado_agy.jsonl
