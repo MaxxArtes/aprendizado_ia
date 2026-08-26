@@ -13,11 +13,15 @@ Um workspace por assunto, autocontido, no formato:
   artifacts/     adapter treinado + checksums
 ```
 
+Pastas de treino e artefatos sao opcionais quando o workspace contem somente o
+dataset destilado.
+
 ## Workspaces
 
 | workspace | fonte | exemplos | estado |
 |---|---|---|---|
 | `aprendizados-tecnicos-lora-distillation` | [`MaxxArtes/aprendizados-tecnicos`](https://github.com/MaxxArtes/aprendizados-tecnicos) (público) | 811 | corpus pronto, treino ainda não rodado |
+| `repository-fix-distillation-dataset` | grupo Git privado anonimizado | 2.161 | corpus validado; treino não solicitado |
 
 ## Regras
 
