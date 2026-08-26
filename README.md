@@ -21,11 +21,25 @@ destilados/<assunto>-lora-distillation/
   artifacts/     adapter treinado + checksums
 ```
 
-### Já aqui
+### Datasets Prontos (`destilados/`)
 
-- `destilados/aprendizados-tecnicos-lora-distillation` - 437 lições do repo
-  público [`MaxxArtes/aprendizados-tecnicos`](https://github.com/MaxxArtes/aprendizados-tecnicos)
-  destiladas em 811 exemplos SFT, prontas para QLoRA sobre Llama-3.2-3B.
+O repositório já conta com **10 lotes de dados purificados** (em `.jsonl`) prontos para treinamento (Supervised Fine-Tuning).
+Estes dados passaram por uma rigorosa **esteira de curadoria e reescrita utilizando o modelo DeepSeek**, garantindo que:
+1. **Zero Contaminação de IA:** Não há jargões de assistentes virtuais ("Como modelo de linguagem...", "Aqui está...", etc).
+2. **Zero Contexto Fantasma:** As respostas não citam referências externas que o modelo final não terá acesso (ex: "Segundo o texto fornecido...").
+3. **Padrão Ouro Técnico:** Respostas técnicas seguem estritamente a taxonomia **Causa -> Regra -> Verificação**.
+4. **Naturalidade:** Datasets comportamentais e do cotidiano brasileiro são diretos, coloquiais e humanos.
+
+**Lotes disponíveis:**
+- `dataset_00_cofre_v1.jsonl` - 1.195 pares resgatados de documentação privada (anonimizados).
+- `dataset_01_recusa_diagnostico.jsonl` - 500 pares de comportamento para recusa educada de diagnósticos médicos/legais.
+- `dataset_02_cotidiano_br.jsonl` - 502 pares de conversação casual, com gírias e rotina tipicamente brasileira.
+- `dataset_03_instrucao_seguida.jsonl` - 500 pares de respostas cirúrgicas a comandos diretos.
+- `dataset_04_dialogo_memoria.jsonl` - 504 pares simulando retenção de contexto.
+- `dataset_05_docs_tecnicos_lote_1.jsonl` - 324 pares técnicos curados.
+- `dataset_06_docs_tecnicos_lote_2.jsonl` - 235 pares técnicos curados.
+- `dataset_07_diversos.jsonl` - 20 pares extras variados.
+- `dataset_08_lora_antigo_train.jsonl` / `dataset_09...test` / `dataset_10...val` - 811 pares técnicos clássicos reescritos e modernizados.
 
 ## Arquivos grandes: Git LFS
 
@@ -61,9 +75,11 @@ não se versiona - se baixa.
 - Tokenizer é salvo junto do adapter. Separado, o checkpoint vira lixo ilegível.
 - Segredos via Doppler. Nada de `.env` versionado.
 
-## Licenciamento do conteúdo
+## Licença
 
-Este repositório é **público**. Só entra em `dados_premium/` material que pode
-ser redistribuído: obra própria, domínio público ou licença que permita.
-Material licenciado para uso pessoal, corpus de cliente e dado proprietário não
-entram - publicar aqui é redistribuir.
+Este projeto é disponibilizado sob a licença **MIT** (veja o arquivo `LICENSE`).
+
+Isso significa que pesquisadores, estudantes e desenvolvedores podem clonar, modificar, 
+distribuir e usar este dataset livremente para treinar modelos (inclusive comerciais), 
+bastando manter os créditos do autor original.
+A ideia é ser uma contribuição de qualidade, estruturada e limpa para a comunidade open-source.
