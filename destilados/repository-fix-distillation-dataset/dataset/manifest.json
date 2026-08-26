@@ -1,6 +1,6 @@
 {
   "accepted_examples": 2161,
-  "anonymization_policy_version": "2.0",
+  "anonymization_policy_version": "2.1",
   "anonymized": true,
   "candidate_commits": 1237,
   "category_counts": {
@@ -30,22 +30,22 @@
   },
   "files": {
     "test.jsonl": {
-      "bytes": 695246,
+      "bytes": 694991,
       "examples": 172,
-      "sha256": "596caa388e0aae22afe5570ab3109632464c6c74edb559b51cc8f3584c00d84e"
+      "sha256": "14ac659a40cb44315c71991aa50ef2fab1317f851003131e54bdf9f98afeded2"
     },
     "train.jsonl": {
-      "bytes": 7668355,
+      "bytes": 7663457,
       "examples": 1816,
-      "sha256": "76dd5d24388073020584c3da2c36b77d321b17ef1aca8a7809440ece83b5a35d"
+      "sha256": "c1c11ba17c421149fd66a565924f76d4308f7e6ba677ccad91fcbd522e08dde4"
     },
     "validation.jsonl": {
-      "bytes": 799853,
+      "bytes": 799428,
       "examples": 173,
-      "sha256": "9009a7fec1f5889b40818759780b852154899ec11af8d6ca13151915b93958be"
+      "sha256": "33368001fd5a3e771d90f1a74ae8b6c8dfe039502e3cc6d02647150cc6694603"
     }
   },
-  "generated_at": "2026-08-26T16:26:58.237026+00:00",
+  "generated_at": "2026-08-26T22:02:09.879349+00:00",
   "mapping_location": "encrypted_local_only_outside_git",
   "method": "anonymized_supervised_distillation_from_human_git_fixes",
   "repositories_in_inventory": 217,
