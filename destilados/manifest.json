@@ -1,0 +1,81 @@
+{
+  "arquivos": {
+    "dataset_00_cofre_v1.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "364885c68d93ccc168641928f64154857c0bed94dc1efd1c989176b5c27e36ff"
+    },
+    "dataset_01_recusa_diagnostico.jsonl": {
+      "fonte": "Geração Sintética (Comportamental)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "d1c4b2373ae96745e97f1e5538cfcdcc31e8ef872f57b1f5c4289044fdbc274d"
+    },
+    "dataset_02_cotidiano_br.jsonl": {
+      "fonte": "Geração Sintética (Comportamental)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "7247b79dd6f5040c74d9cf7850eac664cb4ea9e5a5325e19196d3abaa7bca132"
+    },
+    "dataset_03_instrucao_seguida.jsonl": {
+      "fonte": "Geração Sintética (Comportamental)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "11b24923ca03e1f04dc12457067a959f93b0e76fecea5c6de15a270a9176c728"
+    },
+    "dataset_04_dialogo_memoria.jsonl": {
+      "fonte": "Geração Sintética (Comportamental)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "05e51f7123631d608bb4d8b0da916e9b5ddfa5c5144ecb84803e2c4f19898c5f"
+    },
+    "dataset_05_docs_tecnicos_lote_1.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "7fcd4d4f75f16849117681dfd3c53505c1d1c2e1caa2f7cf9061a0861ea57625"
+    },
+    "dataset_06_docs_tecnicos_lote_2.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "4ed7be778726880989c6e7e41b55a865690f1f8549a4b23e7fa4347f31ec1dda"
+    },
+    "dataset_07_diversos.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "4e1a15d591f5711c67f9f42a0c3faeb6a4834847664459ebb9267330621117f2"
+    },
+    "dataset_08_lora_antigo_train.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "6ce8b9a8125faef124bba9fc47b3f945c80a3b0746e3c7d14e3982defdde47ba"
+    },
+    "dataset_09_lora_antigo_test.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "dd231c271c476d5b7f1d1ff8ef64d55e0b563ddba9b5bb62ceecdc4e4ef029d8"
+    },
+    "dataset_10_lora_antigo_val.jsonl": {
+      "fonte": "Documentação Técnica e Histórico",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-27",
+      "sha256": "f6791eab687987b2639a5f77af2e27b066769ceba4a58ae9f7d3fcb50342e313"
+    }
+  }
+}
