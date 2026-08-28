@@ -12,3 +12,8 @@ dataset_destilado_worker_single.jsonl
 dataset_destilado_initial.jsonl
 dataset_destilado_parallel.jsonl
 dataset_destilado_agy.jsonl
+
+# 28/08: material do trabalho/pessoal do dono NUNCA entra (removido notas_pessoais)
+dados_premium/notas_pessoais/
+*CONTEXTO-pocket-lm*
+*hardening-notas*

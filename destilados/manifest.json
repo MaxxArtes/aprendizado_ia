@@ -5,97 +5,260 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "3aa1dbc6784e3fb69db85fdfa46d1f141233cf9c07f475bc61d15693e4719dab",
+      "sha256": "eb88fd35704f84718a8390084a25c2a66eda53dffbe4903aab6a4733fdbea656",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 8,
         "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
-      }
+      },
+      "linhas": 573
     },
     "dataset_01_recusa_diagnostico.jsonl": {
       "fonte": "Geração Sintética (Comportamental)",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "d1c4b2373ae96745e97f1e5538cfcdcc31e8ef872f57b1f5c4289044fdbc274d"
+      "sha256": "c2d5add85fab82bb04cc9e152a419c38c212cda7042d7705a3156d3c9e7dd7e9",
+      "linhas": 497
     },
     "dataset_02_cotidiano_br.jsonl": {
       "fonte": "Geração Sintética (Comportamental)",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "7247b79dd6f5040c74d9cf7850eac664cb4ea9e5a5325e19196d3abaa7bca132"
+      "sha256": "1898ebb53061a61ba66ac775587b3b1c0a54c273bba86cba676a84a5231bd521",
+      "linhas": 502
     },
     "dataset_03_instrucao_seguida.jsonl": {
       "fonte": "Geração Sintética (Comportamental)",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "11b24923ca03e1f04dc12457067a959f93b0e76fecea5c6de15a270a9176c728"
+      "sha256": "b86f64adeb5cdb82bda4ebcaf4654c117ec42b10e3c3d436aa74307c55e0d89d",
+      "linhas": 500
     },
     "dataset_04_dialogo_memoria.jsonl": {
       "fonte": "Geração Sintética (Comportamental)",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "05e51f7123631d608bb4d8b0da916e9b5ddfa5c5144ecb84803e2c4f19898c5f"
+      "sha256": "ef5b850f8775064a13bdf28cf659758b7423f9e3a0ef3b2f65fdfefcceb18b50",
+      "linhas": 402
     },
     "dataset_05_docs_tecnicos_lote_1.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "5a246848a1a512af4390800e33d5947fde5352c53acb997b967c44338e20111c",
+      "sha256": "b666efa8babb0fc5a2981798c9acc8eb0b8d63fc477d08c356ba6df3cf1998d2",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 2,
         "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
-      }
+      },
+      "linhas": 322
     },
     "dataset_06_docs_tecnicos_lote_2.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "4ed7be778726880989c6e7e41b55a865690f1f8549a4b23e7fa4347f31ec1dda"
+      "sha256": "3cd9655d3c4136e239e1183563204d8a61b8bc10e48b330c9c8654ebd63969e8",
+      "linhas": 235
     },
     "dataset_07_diversos.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "4e1a15d591f5711c67f9f42a0c3faeb6a4834847664459ebb9267330621117f2"
+      "sha256": "3af0e5f5920e889615cd7e9651ae1ec4a613dfe8a9ecc1ea239b8255ecf3e72c",
+      "linhas": 20
     },
     "dataset_08_lora_antigo_train.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "1c3bac75be386aaf92c020dcd330319eb3a07e6123985255f392ea175088521f",
+      "sha256": "43980ad67521bad227c80e0cf858731c18161efba9356bc9299f4fa6351d2b0f",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 32,
         "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
-      }
+      },
+      "linhas": 978
     },
     "dataset_09_lora_antigo_test.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "eb0b7e81c80e4e4f932179af9a10c30b8179fe27a1352fde8ce29326d3f1e635",
+      "sha256": "1ea493a735c3708a6f5917e29b86ca0ade12c3fecdbdec5cb92ef87aaa46a2f9",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 7,
         "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
-      }
+      },
+      "linhas": 125
     },
     "dataset_10_lora_antigo_val.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "5b1e1a282290fbf6eebcf5aa5e76d4aede3dc3f62475a66ab3717f0eefaced39",
+      "sha256": "cda545eedcbc50dd31ffb00a55d8f2fd546e20175e6c67fe8717eb485dc96c8e",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 7,
         "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
-      }
+      },
+      "linhas": 121
+    },
+    "dataset_52k_final/cat_01_magpie_geral.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "b528d4489b124e485348093547a2140273bddf68b6887d7fcd3edc624c862aee",
+      "linhas": 40
+    },
+    "dataset_52k_final/cat_02_smol_constraints.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "91864668bca551e419d4e4375107d548574413e2eba3b9bdd0a6652fedf7eae3",
+      "linhas": 40
+    },
+    "dataset_52k_final/cat_03_multi_turno_correcao.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "b87e9ede41f70e20d480a8923fb1d6ab6525755ffda4b68b8f86802cd8be82a8",
+      "linhas": 16
+    },
+    "dataset_52k_final/cat_04_social_cotidiano.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "0b5181a0e7f23532f4506638c1f43c6fea1f258119bf51998c23183f6a9edbec",
+      "linhas": 40
+    },
+    "dataset_52k_final/cat_05_reescrita.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "60216ff7cfbf097b0b1e9ea7ef0f945cfb28b6f87d09d9bcf84560ef34589438",
+      "linhas": 23
+    },
+    "dataset_52k_final/cat_06_resumo.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "3385a7b524f08d907c9fa6f95f9bdcd097546dd598942d9502ba60e58199a31a",
+      "linhas": 24
+    },
+    "dataset_52k_final/cat_07_persona_system.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "3a417039c5b0545caf3cb77dd52b6e70d163042c950738cee5512d16d91ebbc0",
+      "linhas": 24
+    },
+    "dataset_52k_final/cat_08_memoria_janela.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "1764e9dd90249d659af6014093005bd6d8e973e25724f9d78aec7f7ca68b8c14",
+      "linhas": 13
+    },
+    "dataset_52k_final/cat_09_qa_recusa.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "8836c351dca2294369436c4721375cdf3800a6edc86256f9bf7f495aa7aa5f0e",
+      "linhas": 17
+    },
+    "dataset_52k_final/dataset_01_instrucao_diversa_geral.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "fde06ab75e5ddfdcd16a410ab68c6787bab6be9c4b0ab98c1273bc972556a20a",
+      "linhas": 12001
+    },
+    "dataset_52k_final/dataset_02_instrucao_verificada.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "7a7b80403cb34b79df227eacea2fb319e9149af8c1a70d4e77f9193b5a2818c4",
+      "linhas": 15000
+    },
+    "dataset_52k_final/dataset_03_escuta_corrige_multiturno.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "ad4b874ecec5b1e9dfae7e2c3ae21774cdebab7697086f33ab993124ff3208c2",
+      "linhas": 3000
+    },
+    "dataset_52k_final/dataset_04_papo_social_br.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "518ad42268b5372c9fc9f70665457a98f54d0744c048da933dca41588db4e89c",
+      "linhas": 2997
+    },
+    "dataset_52k_final/dataset_05_reescrita.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "33e1537371e8100e25eaa0b601cd248d9ffdd7c30a178edf6f1ae09a36b08b3f",
+      "linhas": 5000
+    },
+    "dataset_52k_final/dataset_06_resumo.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "a69030a37f09f71682bc19b35971353312c87587bd64d3e6fa0b01437980ab56",
+      "linhas": 5000
+    },
+    "dataset_52k_final/dataset_07_persona_system.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "988de9d86a3fec591a2f3537132bc74433373ca2f964b9a3673c33c6bcd09fbf",
+      "linhas": 2000
+    },
+    "dataset_52k_final/dataset_08_memoria_curta.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "1a6a9380f2d5e97b69b2b1c065e3c790501b53a6216906bcd51f212c9ab716d4",
+      "linhas": 2000
+    },
+    "dataset_52k_final/dataset_09_qa_extrativo_recusa.jsonl": {
+      "fonte": "Curadoria/geracao DeepSeek (API oficial)",
+      "gerador_reorganizador": "DeepSeek",
+      "canal": "API",
+      "data": "2026-08-28",
+      "sha256": "ca1cae2fd94b81eb272a88813af9c80c3d624400f52072c9d3414d58519c5b6a",
+      "linhas": 5000
     }
+  },
+  "total_arquivos": 29,
+  "total_pares_aprox": 56510,
+  "licenca": "MIT — dados gerados/reorganizados por DeepSeek (pesos MIT, Open Weights); sem conteudo de modelos de licenca restritiva",
+  "auditoria_28_08": {
+    "validador": "0 erros apos corte de 14 linhas defeituosas (contexto-fantasma/artefato-chat)",
+    "contaminacao_frontier_8gramas": "0 pares >=5%",
+    "linhagem": "id sha1 por linha + sidecar .linhagem.json por arquivo"
   }
 }

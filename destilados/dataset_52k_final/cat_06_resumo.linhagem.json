@@ -1,0 +1,31 @@
+{
+"arquivo": "destilados/dataset_52k_final/cat_06_resumo.jsonl",
+"n": 24,
+"sem_id_no_arquivo": 0,
+"ids": [
+"e1cadbf06b833e4b",
+"8af9e4c2718e5880",
+"fb925ae89d0ba48c",
+"f59fc2c64a240f55",
+"b2811460e66767c6",
+"34cfe352f67fbf50",
+"47adf2bdf1154693",
+"cfa7406d9027e025",
+"13fded238504233f",
+"ad4fa0c1d2fa588e",
+"63487057160a1601",
+"e75167491253157c",
+"f336266291562978",
+"b97fe5a1c811e01a",
+"71359ee63bd6260e",
+"c79d2be4ff91c8c8",
+"fef9d3a10bd103e6",
+"45d2aafdb5dbe78d",
+"1c9ecd651675bf4c",
+"614be59c1037564a",
+"4aa7a5b177b9e4d3",
+"ff0851464d53e80e",
+"93164e0aaf7c1fc2",
+"1e54297d2f6e8afc"
+]
+}
