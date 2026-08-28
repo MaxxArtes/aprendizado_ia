@@ -5,7 +5,11 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "364885c68d93ccc168641928f64154857c0bed94dc1efd1c989176b5c27e36ff"
+      "sha256": "32102d159a86b9eb025e11a5a64c3538696653ae18a29f6ac990314f6a3b71a5",
+      "corte_contaminacao_28_08": {
+        "linhas_removidas": 8,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6)"
+      }
     },
     "dataset_01_recusa_diagnostico.jsonl": {
       "fonte": "Geração Sintética (Comportamental)",
@@ -40,7 +44,11 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "7fcd4d4f75f16849117681dfd3c53505c1d1c2e1caa2f7cf9061a0861ea57625"
+      "sha256": "6417e79735ca43195efbbcb5ac2c6f254c6ebc589eef3506065e757bf5288559",
+      "corte_contaminacao_28_08": {
+        "linhas_removidas": 2,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6)"
+      }
     },
     "dataset_06_docs_tecnicos_lote_2.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
@@ -61,21 +69,33 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "6ce8b9a8125faef124bba9fc47b3f945c80a3b0746e3c7d14e3982defdde47ba"
+      "sha256": "8e3187251a6568e2bdbcd760b5bf3a7840048d7933e65f163ba21cc56d33e685",
+      "corte_contaminacao_28_08": {
+        "linhas_removidas": 32,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6)"
+      }
     },
     "dataset_09_lora_antigo_test.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "dd231c271c476d5b7f1d1ff8ef64d55e0b563ddba9b5bb62ceecdc4e4ef029d8"
+      "sha256": "563db3d9e02633c68d5f6914c0f6049c749e3fa5929e59d7949cd65a702508a1",
+      "corte_contaminacao_28_08": {
+        "linhas_removidas": 7,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6)"
+      }
     },
     "dataset_10_lora_antigo_val.jsonl": {
       "fonte": "Documentação Técnica e Histórico",
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "f6791eab687987b2639a5f77af2e27b066769ceba4a58ae9f7d3fcb50342e313"
+      "sha256": "927410c4dea836d9c78bfbcd33718de172b649e73fc726589eeeb48aec127d3e",
+      "corte_contaminacao_28_08": {
+        "linhas_removidas": 7,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6)"
+      }
     }
   }
 }
