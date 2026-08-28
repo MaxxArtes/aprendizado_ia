@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-08-28 16:35:44",
+  "total_models": 7,
+  "models_summary": [
+    {
+      "model": "big-pickle",
+      "category": "Indexacao e Busca (SERP e Trends)",
+      "file": "dataset_big_pickle.jsonl",
+      "records_count": 2,
+      "elapsed_seconds": 17.62,
+      "status": "SUCESSO"
+    },
+    {
+      "model": "nemotron-3-ultra-free",
+      "category": "Gráficos de Conhecimento e Autoridade de Fontes",
+      "file": "dataset_nemotron_3_ultra_free.jsonl",
+      "records_count": 2,
+      "elapsed_seconds": 125.61,
+      "status": "SUCESSO"
+    },
+    {
+      "model": "nemotron-3.5-lightning-free",
+      "category": "Extração de Conteúdo e Estrutura HTML",
+      "file": "dataset_nemotron_3_5_lightning_free.jsonl",
+      "records_count": 0,
+      "elapsed_seconds": 204.67,
+      "status": "FALHA"
+    },
+    {
+      "model": "mimo-v2.5-free",
+      "category": "Metadados Temporais e Ancoragem de Pesquisa",
+      "file": "dataset_mimo_v2_5_free.jsonl",
+      "records_count": 0,
+      "elapsed_seconds": 17.4,
+      "status": "FALHA"
+    },
+    {
+      "model": "hy3-free",
+      "category": "Geolocalização, Idioma e Cultura",
+      "file": "dataset_hy3_free.jsonl",
+      "records_count": 2,
+      "elapsed_seconds": 92.81,
+      "status": "SUCESSO"
+    },
+    {
+      "model": "ling-3.0-flash-fin-free",
+      "category": "Indexação e Análise de Tendências em Dados de Mercado",
+      "file": "dataset_ling_3_0_flash_fin_free.jsonl",
+      "records_count": 2,
+      "elapsed_seconds": 186.85,
+      "status": "SUCESSO"
+    },
+    {
+      "model": "muse-spark-1.2-contributor-free",
+      "category": "Engenharia de Scraping, Limpeza e Verificação",
+      "file": "dataset_muse_spark_1_2_contributor_free.jsonl",
+      "records_count": 0,
+      "elapsed_seconds": 17.02,
+      "status": "FALHA"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "status": "APROVADO",
+  "records": 387,
+  "unique_ids": 387,
+  "unique_instructions": 387,
+  "unique_outputs": 387,
+  "unique_pairs": 387,
+  "task_counts": {
+    "conceito_tecnico": 129,
+    "diagnostico_operacional": 134,
+    "diretriz_de_execucao": 124
+  },
+  "source_counts": {
+    "aprendizados_tecnicos/GLOSSARIO.md": 129,
+    "aprendizados_tecnicos/apis-e-integracoes.md": 26,
+    "aprendizados_tecnicos/arquitetura-e-produto.md": 14,
+    "aprendizados_tecnicos/automacao-e-agendamento.md": 23,
+    "aprendizados_tecnicos/banco-de-dados.md": 24,
+    "aprendizados_tecnicos/deploy-e-build.md": 20,
+    "aprendizados_tecnicos/encoding-e-midia.md": 10,
+    "aprendizados_tecnicos/ferramentas-de-ia.md": 23,
+    "aprendizados_tecnicos/frontend-e-nextjs.md": 21,
+    "aprendizados_tecnicos/git.md": 8,
+    "aprendizados_tecnicos/infraestrutura-e-containers.md": 25,
+    "aprendizados_tecnicos/seguranca-e-segredos.md": 32,
+    "aprendizados_tecnicos/treino-de-modelos.md": 22,
+    "aprendizados_tecnicos/windows-e-powershell.md": 10
+  },
+  "template_counts": {
+    "acao-00": 16,
+    "acao-01": 17,
+    "acao-02": 18,
+    "acao-03": 12,
+    "acao-04": 17,
+    "acao-05": 9,
+    "acao-06": 19,
+    "acao-07": 16,
+    "diag-00": 12,
+    "diag-01": 6,
+    "diag-02": 10,
+    "diag-03": 12,
+    "diag-04": 7,
+    "diag-05": 14,
+    "diag-06": 21,
+    "diag-07": 9,
+    "diag-08": 9,
+    "diag-09": 7,
+    "diag-10": 16,
+    "diag-11": 11,
+    "gloss-00": 20,
+    "gloss-01": 18,
+    "gloss-02": 21,
+    "gloss-03": 11,
+    "gloss-04": 14,
+    "gloss-05": 18,
+    "gloss-06": 15,
+    "gloss-07": 12
+  },
+  "privacy_hits": 0,
+  "banned_filler_hits": 0,
+  "source_assertive_term_counts": {
+    "sempre": 29,
+    "nunca": 78,
+    "jamais": 1,
+    "deve": 16,
+    "obrigatório": 2
+  },
+  "max_shared_five_word_opening": 21,
+  "max_shared_five_word_opening_ratio": 0.054264,
+  "max_output_fourgram_jaccard": 0.084337,
+  "closest_output_pair_ids": [
+    "gcs-cb688870d59093bd99c4",
+    "gcs-dcb2e7b49ee1f0ad1de4"
+  ],
+  "max_instruction_chars": 925,
+  "max_output_chars": 1581,
+  "generator_version": "1.0.0",
+  "generation_method": "deterministic-grounded-extractive",
+  "seed": 20260828,
+  "parsed_lessons": 259,
+  "parsed_glossary_entries": 129,
+  "lesson_sections_detected": 308,
+  "rejected_section_count": 49,
+  "lesson_coverage_ratio": 0.840909,
+  "coverage_policy": {
+    "expected_lesson_sections": 308,
+    "minimum_parsed_lessons": 250,
+    "minimum_lesson_coverage_ratio": 0.8,
+    "expected_glossary_entries": 129
+  },
+  "rejected_sections": {
+    "aprendizados_tecnicos/apis-e-integracoes.md": [
+      "Serviço gratuito de terceiro vira pago sem aviso: campos ausentes: causa"
+    ],
+    "aprendizados_tecnicos/arquitetura-e-produto.md": [
+      "Valor cobrado se recalcula no servidor; total vindo do cliente é sugestão: campos ausentes: sintoma",
+      "CRUD sem \"update\" força um fluxo destrutivo: campos ausentes: causa",
+      "Integração com provedor externo: Adapter + falha segura quando a chave não existe: campos ausentes: causa",
+      "Dados de demonstração vazam para sitemap e listagens públicas: campos ausentes: sintoma, causa",
+      "Recibo deve ser gerado ao vivo e não conter contato do cliente: campos ausentes: causa",
+      "Automação de mensageiro por biblioteca não-oficial bane o número do cliente: campos ausentes: sintoma, causa",
+      "Só use base de código com licença permissiva: campos ausentes: sintoma",
+      "Feature que depende de credencial de produção precisa de plano de diagnóstico em produção: campos ausentes: causa"
+    ],
+    "aprendizados_tecnicos/automacao-e-agendamento.md": [
+      "Teste a tarefa agendada **pelo agendador**, não pelo seu terminal: campos ausentes: sintoma",
+      "Grave o novo, valide, só então substitua o bom: campos ausentes: causa",
+      "Isole automação nova do pipeline crítico: campos ausentes: causa",
+      "Leitor de CSV novo pode trocar string vazia por NULL: campos ausentes: causa",
+      "Sempre use execução destacada para tarefas longas em servidor: campos ausentes: sintoma, causa"
+    ],
+    "aprendizados_tecnicos/banco-de-dados.md": [
+      "Valor global do período cabe numa tabela por-item se for distribuído: campos ausentes: causa"
+    ],
+    "aprendizados_tecnicos/deploy-e-build.md": [
+      "Com integração git ativa, push na branch principal **é** o deploy de produção: campos ausentes: causa",
+      "`ignoreDuringBuilds` / `ignoreBuildErrors` compram velocidade a crédito: campos ausentes: causa",
+      "`docker builder prune` incondicional + `--no-cache` torna todo build frio: campos ausentes: sintoma",
+      "Desligue a otimização de imagem da plataforma quando o CDN já serve derivadas: campos ausentes: sintoma",
+      "Subdomínio `www` não herda o certificado do apex: campos ausentes: sintoma, causa"
+    ],
+    "aprendizados_tecnicos/encoding-e-midia.md": [
+      "Declare o encoding sempre, na leitura e na escrita: campos ausentes: sintoma, causa"
+    ],
+    "aprendizados_tecnicos/ferramentas-de-ia.md": [
+      "Retry com backoff não é opcional — 429 e 503 são rotina: campos ausentes: sintoma",
+      "Corrida entre dois geradores vence fallback sequencial: campos ausentes: causa",
+      "Modelo de raciocínio é a escolha errada para reescrita longa: campos ausentes: sintoma",
+      "Um loop de typecheck antes do build caro derruba a taxa de falha: campos ausentes: causa",
+      "Mudar só o hash da URL não recarrega — o estado vaza entre passadas de teste: campos ausentes: causa",
+      "Servidor de desenvolvimento pode não hidratar por causa do websocket de HMR: campos ausentes: causa",
+      "Memória de agente não sincroniza entre máquinas: campos ausentes: causa"
+    ],
+    "aprendizados_tecnicos/frontend-e-nextjs.md": [
+      "Comentário `//` dentro de uma tag JSX quebra o build: campos ausentes: sintoma",
+      "`AbortError` em `navigator.share` é o usuário cancelando: campos ausentes: sintoma, causa",
+      "`fetch` não reporta progresso de **envio**: campos ausentes: sintoma, causa",
+      "`loading=\"lazy\"` não adia slides de carrossel: campos ausentes: sintoma",
+      "Use `dvh` em vez de `vh` para altura útil no celular: campos ausentes: sintoma",
+      "Alvo de toque é área, não desenho: campos ausentes: causa",
+      "Menu absoluto dentro de card com `overflow-hidden` é cortado: campos ausentes: sintoma, causa",
+      "O botão de sair some justamente para quem está logado: campos ausentes: causa",
+      "Emoji é fonte: dimensione com `font-size`: campos ausentes: sintoma",
+      "Cota \"mensal\" calculada em UTC reseta cedo para o usuário: campos ausentes: sintoma",
+      "Tracking de visita curta registra 0s se o primeiro ping demora: campos ausentes: sintoma",
+      "`iframe srcDoc` com documento completo não pode ser embrulhado: campos ausentes: sintoma",
+      "Renomear entidade que gera slug quebra todo link já compartilhado: campos ausentes: sintoma",
+      "O alfabeto padrão de geradores de ID tem caracteres inválidos em hostname: campos ausentes: sintoma",
+      "Rota de `sitemap` dinâmica congela no build sem revalidação: campos ausentes: sintoma, causa",
+      "`title.template` faz sua marca \"vampirizar\" o nome do cliente: campos ausentes: causa"
+    ],
+    "aprendizados_tecnicos/git.md": [
+      "Branch local rastreando upstream antigo inventa commits \"não enviados\": campos ausentes: regra",
+      "Backup de repositório: `git bundle`, não zip da pasta: campos ausentes: sintoma",
+      "Deploy por cópia de arquivo para diretório que não é repositório é dívida: campos ausentes: causa"
+    ],
+    "aprendizados_tecnicos/infraestrutura-e-containers.md": [
+      "Domínio sem registro MX não recebe e-mail: campos ausentes: sintoma, causa",
+      "Estado de job só em memória significa que restart destrói trabalho: campos ausentes: causa"
+    ]
+  },
+  "ignored_label_candidates": {
+    "aprendizados_tecnicos/banco-de-dados.md": [
+      "snapshot"
+    ],
+    "aprendizados_tecnicos/frontend-e-nextjs.md": [
+      "`vh` versus `dvh` em uma frase cada"
+    ]
+  },
+  "filtered_sensitive_records": [
+    {
+      "id": "gcs-4692f8c12af964a84904",
+      "source_path": "aprendizados_tecnicos/deploy-e-build.md",
+      "source_section": "Deploy `BLOCKED` não é build quebrado — é o e-mail do autor do commit",
+      "categories": [
+        "email"
+      ]
+    }
+  ],
+  "filtered_sensitive_record_count": 1,
+  "grounding": "respostas compostas apenas de campos estruturados ou definicoes das fontes",
+  "factual_review_scope": "grounding verificado; fatos tecnicos externos nao foram revalidados",
+  "source_style_preserved": true,
+  "external_calls": 0
+}
