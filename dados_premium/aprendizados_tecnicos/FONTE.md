@@ -1,0 +1,4 @@
+- **De onde veio**: Repositório local `C:\Users\10864\aprendizados-tecnicos` (de autoria própria do usuário Maxuel Campos).
+- **Licença**: MIT License (Autoriza modificação, distribuição e uso irrestrito, compatível com treinamento de IAs).
+- **O que já foi feito**: Os arquivos originais já estavam em formato Markdown estruturado puro e limpo. Foram copiados integralmente.
+- **O que sabidamente ainda está sujo**: Alguns links internos podem apontar para arquivos que não existem neste recorte, e pode haver anotações rascunhadas.
