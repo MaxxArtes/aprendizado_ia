@@ -1,0 +1,811 @@
+{
+  "policy": "allowlist",
+  "formats_present": [
+    "markdown"
+  ],
+  "entries": [
+    {
+      "path": "aprendizados_tecnicos/apis-e-integracoes.md",
+      "bytes": 33713,
+      "sha256": "f6d8ccb4a58755478739a6e1ca58deac10b63c573183c0d742226f1d2cba591a",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 26
+    },
+    {
+      "path": "aprendizados_tecnicos/arquitetura-e-produto.md",
+      "bytes": 26719,
+      "sha256": "196801536b8df8befb2cf898362173cb2137344cac8cc29a2b820a880c2b1a05",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 14
+    },
+    {
+      "path": "aprendizados_tecnicos/automacao-e-agendamento.md",
+      "bytes": 28633,
+      "sha256": "70591b7e5aa28852f8509e7de45c51924bad0e574276fd35911d765099b737cf",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 23
+    },
+    {
+      "path": "aprendizados_tecnicos/banco-de-dados.md",
+      "bytes": 25563,
+      "sha256": "da6c19dc59ac3e100b836f884b52633dff6429bc0e320a14435ed9f02d4ce5ef",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 24
+    },
+    {
+      "path": "aprendizados_tecnicos/COMECE-AQUI.md",
+      "bytes": 6621,
+      "sha256": "dd341a87982fa5176336a43ce59f2041071508acaaeed5141677544f361f8d16",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "aprendizados_tecnicos/deploy-e-build.md",
+      "bytes": 27850,
+      "sha256": "af54edfcaead35c70d52326635845a7b4db0c134bb9d3e48e8cabfa42a882526",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [
+        "email"
+      ],
+      "records_derived": 20
+    },
+    {
+      "path": "aprendizados_tecnicos/encoding-e-midia.md",
+      "bytes": 13177,
+      "sha256": "1815f80695c31e5f5e03205152b5cbd5b7a2e20c35c2516e04fcac88369713e5",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 10
+    },
+    {
+      "path": "aprendizados_tecnicos/ferramentas-de-ia.md",
+      "bytes": 30512,
+      "sha256": "1a15ad0aff5aa995b0fec018c78591e7452bb73a311932bee1064cf55bd3c726",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 23
+    },
+    {
+      "path": "aprendizados_tecnicos/FONTE.md",
+      "bytes": 549,
+      "sha256": "aff4471f706528910cd91435405e54636061fdb1a4b69340c079ff7c9aca8606",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "aprendizados_tecnicos/frontend-e-nextjs.md",
+      "bytes": 36152,
+      "sha256": "3049a5a0dc294658a7390104b94754348b76c3d6b34c000e66706ac3d877034c",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 21
+    },
+    {
+      "path": "aprendizados_tecnicos/git.md",
+      "bytes": 12461,
+      "sha256": "92fe236a3196524718e5dfe0e727fed3e4dde07077844f994e4e31d74a7c626e",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 8
+    },
+    {
+      "path": "aprendizados_tecnicos/GLOSSARIO.md",
+      "bytes": 28010,
+      "sha256": "9db28ad664b41ec35adc1e598cbe021f7ee76a577e45580e08846c907b5e1516",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 129
+    },
+    {
+      "path": "aprendizados_tecnicos/INDICE-POR-SINTOMA.md",
+      "bytes": 77680,
+      "sha256": "e1a19c27e3c92a1391996c924083f5d7e335784fb8c7951a7fe6de02da670a76",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "aprendizados_tecnicos/infraestrutura-e-containers.md",
+      "bytes": 32983,
+      "sha256": "b3f588b6d028c27eadad94e72b7061f97719e8d020d639db6bad81c967d002b7",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 25
+    },
+    {
+      "path": "aprendizados_tecnicos/LICENSE",
+      "bytes": 1091,
+      "sha256": "5330168e37d505dfe2028945f23eb1a331bcf4863dc2bb74641747b391533e54",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "aprendizados_tecnicos/README.md",
+      "bytes": 6961,
+      "sha256": "fbaeee47996ca7a35afb11699e5f15455ccd23379672dfcc808157040dd0d23b",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "aprendizados_tecnicos/seguranca-e-segredos.md",
+      "bytes": 37948,
+      "sha256": "9302b719b952dcd6c5e2b789692e94bf93e268c7bb90b23d2c91f67f110523e1",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 32
+    },
+    {
+      "path": "aprendizados_tecnicos/treino-de-modelos.md",
+      "bytes": 31675,
+      "sha256": "1d36a81ec4fdc4e336d2c056c8f42a67e89fe7b81e9b9aa7d08c4a7effaa3ede",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 22
+    },
+    {
+      "path": "aprendizados_tecnicos/windows-e-powershell.md",
+      "bytes": 11846,
+      "sha256": "80cf95bd0c6c2ed76bd7a3609ddb384c8518dcafe86a75ea4c957306cee42a8e",
+      "status": "used",
+      "reason": "fonte Markdown estruturada, licenciada e aprovada pela lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 10
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/audit_report.json",
+      "bytes": 2022,
+      "sha256": "b78a7c95c6b4cbaa3c47612c8a7abaf35bca408b093440efa3128720c5c6e84a",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/premium_grounded_10k.jsonl",
+      "bytes": 41950944,
+      "sha256": "57beeb8238009e56a507810ea777d07ded01f9d1137625da4aa45faa83878053",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/premium_sft_10k.jsonl",
+      "bytes": 16486218,
+      "sha256": "b734c17c8e6fbd9878d28ad0cf5e442d15a43492477e95a0cf4bf1d91f5e3f16",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/test.jsonl",
+      "bytes": 782319,
+      "sha256": "ef5fdd56bbe856951d67c2681dbeb351707c07f86637a38d6c28aa2e8a5306fb",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/train.jsonl",
+      "bytes": 14843980,
+      "sha256": "2fd19d0adc21991048e454eda66b3cc45e3c983f5e65c0a985518aef02599c95",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/validation.jsonl",
+      "bytes": 859919,
+      "sha256": "d6f02fcb9a619362e6e0262eb139fc883cf35c206cea42ea9e0dd223eb4671e0",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/LICENSES.md",
+      "bytes": 9240,
+      "sha256": "a9827a8f3bfd3a34aa3cc783e4676b0c4beac17e46cbc46c2adfe47b64add135",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/manifest.json",
+      "bytes": 7235,
+      "sha256": "ee412a92f12b0a071a0bc6cd289ecf583e2b410f5da6525d986c789a3911c978",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/MEDICAL_LEGAL_NOTICE.md",
+      "bytes": 626,
+      "sha256": "4e02e33345cd3ef9ad9a54d109f92e764d23c7a69d738a6f7d965018066c56bf",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/quality_report.json",
+      "bytes": 1958,
+      "sha256": "1c8c68a09cfafc507bebcbc9756b0b217260c11cd0eedc5f30a7aa97f9160f88",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/README.md",
+      "bytes": 1129,
+      "sha256": "9d464ee26180d6d030d4b153c14d6a1e673caa58fe27e19feb1051cb46d00e14",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/scripts/__pycache__/audit_dataset.cpython-314.pyc",
+      "bytes": 38848,
+      "sha256": "8728cafbd04626eb7c986cc0291835ed44262219f4c161c3b6d4d8bbb77a8cd3",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/scripts/__pycache__/generate_dataset.cpython-314.pyc",
+      "bytes": 52760,
+      "sha256": "bfd85f39fde52a5a4e076161fe819b5751c9daf081b77120809eac89b82889af",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/scripts/audit_dataset.py",
+      "bytes": 24078,
+      "sha256": "0deb7b735793fe4afea0d108d0f2efc984c8b84bb6a5f633ba93cef49c56a3c3",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/scripts/fetch_sources.py",
+      "bytes": 16684,
+      "sha256": "85d28805196a23c6d07e0dd92f26917f92dd7fde77b3fa24c1aac463049b65c8",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/scripts/generate_dataset.py",
+      "bytes": 33117,
+      "sha256": "4b08a80715839a3641496b043ba28a033d21ea45e5efb9bae1cca6b6dc312202",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/SHA256SUMS",
+      "bytes": 3876,
+      "sha256": "ee67813968845aec73d4bb51cddab242470b946984a77e3ba40463013bf69426",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/source_inventory.json",
+      "bytes": 15728,
+      "sha256": "10fc07e91998d3c3bc4e465c1ebc95f7e998a82d17e347b4c3aa2ee72de45a9e",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/source_registry.json",
+      "bytes": 23691,
+      "sha256": "9c8e741a598f0f62c78567c7d809e8353d12934d76729d7a44a64d1406571087",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/processed/passages.jsonl",
+      "bytes": 2446120,
+      "sha256": "699392e5cbe33fde863fb0207a2dafebeaaab1717e9a635a5d2237709bb9bb9f",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "email"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/licenca_planalto_lei_9610.html",
+      "bytes": 148434,
+      "sha256": "edcbffcd58d10950234e5ff370915e939133a0dcbf73a523a6da7dd3ce8aa668",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_cdc.html",
+      "bytes": 169132,
+      "sha256": "d46403e7e3c9f313dcd521356b720be006009cdedd4d65f9ac593849798c4dd3",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_decreto_11034.html",
+      "bytes": 44816,
+      "sha256": "e0891c3078c95477cf2c5c00a3cdc4d04e9680cd449d23d70cd04e95dc46da0b",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_decreto_2181.html",
+      "bytes": 171611,
+      "sha256": "1f0b41e440cda422ff00fa1449547ef6b268d7cf130158ec7fb46ed229dac71e",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_decreto_7962.html",
+      "bytes": 16589,
+      "sha256": "d170f83450efb768ba34326a3ef2ff31ba24547a17cd054df7c8ac17663082a7",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_afixacao_precos_2023.pdf",
+      "bytes": 351326,
+      "sha256": "832923417ce327de602d649f03195fd469fa0043a9dc38fd6c17ffcc71066da9",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_comercio_eletronico_2024.pdf",
+      "bytes": 565265,
+      "sha256": "03908edf8baa71caf79c5888030bdc01db34ec2055ffaf7bb9fdd61f92eb710e",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_consumidor_consciente_2026.pdf",
+      "bytes": 1753676,
+      "sha256": "dead165a98fa5536cb37a43360b609092984308d8f98424f2b4a5f042835ccc6",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_consumidor_idoso_2022.pdf",
+      "bytes": 2594773,
+      "sha256": "014cdb336bcbe8ef4ca1de6744b9597d620e5ae5129fe1fbbf85fce4d6d91919",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_educacao_financeira_2022.pdf",
+      "bytes": 8481767,
+      "sha256": "bf63bd5243dcbfdb3d45a81875b7de52489d47f89babb8b512f7d724fdfe2d16",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_eletroeletronicos_2022.pdf",
+      "bytes": 1162849,
+      "sha256": "8158018385a6140164d1cfcdc6d5b2cb38340df47cbdfdcf41628f0a3ea772f1",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_epdc.html",
+      "bytes": 1927118,
+      "sha256": "63cc6f4803ff4c3a5c0ab9668f2a5590b745df4fedf343911fb8bc54bb24094c",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "email",
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_lgpd_2025.pdf",
+      "bytes": 5724695,
+      "sha256": "9d9df74051c8ac5c1c6704a6ab2dda75a07f3d07949b6a2667cdaccd7523fe05",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_medicamentos_2025.pdf",
+      "bytes": 953678,
+      "sha256": "b8939edaf69a2ade06b48965f070db83a4cf514edd94a0df9fdf6122820d6db5",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_nocoes_basicas_2026.pdf",
+      "bytes": 1136998,
+      "sha256": "9f0bd16e97b7816c1962b3164b48c123706d07dd646d27bdb6ed492029389b7d",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_pcd_2024.pdf",
+      "bytes": 1542600,
+      "sha256": "3c8f75c82eca05f732f8d1231c6e7dc7971c4ee6f5a34899f5d1e64164c1a7fe",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_recall_2022.pdf",
+      "bytes": 2761447,
+      "sha256": "5b5a279f4edba6e10da6a73690582b63069278ab806b20351f6dcd17d2922b0f",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_servicos_bancarios_2022.pdf",
+      "bytes": 2583859,
+      "sha256": "2dcf6936bcd8108d72e99bcdb706687671ccdb86fc06c4b918e723e811863c59",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_supermercados_2026.pdf",
+      "bytes": 9364102,
+      "sha256": "d5f2ae1062dce341e67f7943dfdb3943846a5400039940aef5f8b873f16dfeff",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/saude_guia_alimentar_criancas.pdf",
+      "bytes": 7559617,
+      "sha256": "1a4192bd309d45c3bfe9b671ba7ca4509dff552698d471d462bfe2096253ef50",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/saude_instrutivo_nutricao_atencao_basica.pdf",
+      "bytes": 2506233,
+      "sha256": "de043135e19ef5f4c56402f71d4932b3f59336a3785903e261bad48a40302daa",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/sources/raw/saude_manual_guia_alimentar.pdf",
+      "bytes": 3183052,
+      "sha256": "5a0ea7c597bb54b4cc9ec7204bb08c9e7d3066910a80fa4cc6a95fc233d3b54d",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/dataset_big_pickle.jsonl",
+      "bytes": 1026821,
+      "sha256": "e9e684426d28e3e42d028ae3033645e06939de839fd3f40882bd1b3a7053a215",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/dataset_hy3_free.jsonl",
+      "bytes": 358814,
+      "sha256": "ad644084094ad75612403a22e89f8a53bdce3e2b8b659d0216fbd6be126f6a52",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/dataset_ling_3_0_flash_fin_free.jsonl",
+      "bytes": 334874,
+      "sha256": "1a62c15aebb800584bc55c05ddb145a141c8216d2b796457e26917149c01b43f",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/dataset_mimo_v2_5_free.jsonl",
+      "bytes": 283542,
+      "sha256": "a45618503f778f37bf95861bc15d0211317c6058c205ed6b9d7b5715041fdde0",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/dataset_nemotron_3_ultra_free.jsonl",
+      "bytes": 345054,
+      "sha256": "b79e6a7b5258fe3a3cb5098ca1fa08e81a6cefbfda489fc4f0ffa05ab6c0f4df",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/gerador_maxima_capacidade.py",
+      "bytes": 10977,
+      "sha256": "d59c908670d5ecb6d1cdfd19cce5d0810b4cde6701bfe25d7e93fe16e79fa9b9",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "assigned_secret",
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/gerador_paralelo_opencode.py",
+      "bytes": 11814,
+      "sha256": "96d6b637a4d168ccb5c22b2014bc27674cd44ee8194c48c661e57d034c09f370",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "assigned_secret",
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/gerar_com_modelos_opencode.py",
+      "bytes": 9411,
+      "sha256": "763747a2521be22aae4293f5df7911e2c231688706f1a112394325a5c2dd2229",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "assigned_secret",
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/gerar_dados_busca_extracao_opencode.py",
+      "bytes": 17007,
+      "sha256": "620e3d6923963a8ebf0d710cbb67ae32632146a732d8467365239e6c115b7099",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "assigned_secret",
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/manifest_dataset_opencode.json",
+      "bytes": 1907,
+      "sha256": "8db3189b282a158f379b7474e610e8180014ca1e31fd284efab790e38c06f6a9",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/relatorio_geracao_modelos.json",
+      "bytes": 1339,
+      "sha256": "9ed0915adf60d5f9238617a4d729d38aed95f6be339b20536d66de48dfc14f36",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/relatorio_modelos_gratuitos.json",
+      "bytes": 1439,
+      "sha256": "f1d0bc65520d18a7ed399c312c1d2a3c406361bb07fbdc071d05bb638a8c4f95",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_opencode_gratuitos/testar_todos_ao_vivo.py",
+      "bytes": 1491,
+      "sha256": "51014d3d13300f6cd43db2b2889cd5f258ef34873c2d2f52b2c1d5518fc2ea03",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_openrouter_gratuitos/dataset_openrouter_cohere_north_mini_code_free.jsonl",
+      "bytes": 36130,
+      "sha256": "daa790c81899ce0bd30d8ae07e693d7b053509b73f911ba009520635da1bbeb4",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_openrouter_gratuitos/dataset_openrouter_dots_studio_dots_3_note_preview_free.jsonl",
+      "bytes": 65243,
+      "sha256": "8da3bfad7b35bd0b00eec78a6aabbe02a14c63f68700f79e5ac343a8fa1d5395",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_openrouter_gratuitos/dataset_openrouter_minimax_minimax_m2_7_free.jsonl",
+      "bytes": 295609,
+      "sha256": "170be545a31fc3ba8e3f7a7a299872b87b6cfdfa6a5cdbe1fddb4e98ea4aa952",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_openrouter_gratuitos/dataset_openrouter_minimax_minimax_m3_free.jsonl",
+      "bytes": 213561,
+      "sha256": "b3228d62c9ec3a0678a7f15f69f61dfac2b9a5f9fb14a515ac7b5ba7a47fb1c6",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_openrouter_gratuitos/dataset_openrouter_openrouter_free.jsonl",
+      "bytes": 38791,
+      "sha256": "7225434167909cb5853ed382ed428d2b1113f97f17008d09c2951a9aa7c9ad15",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "geracao_openrouter_gratuitos/gerador_openrouter.py",
+      "bytes": 10557,
+      "sha256": "2cf1f4494147b93682cfac13237da871934a75e823c821707b4ee1ab18bd97cc",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [
+        "provider_token"
+      ],
+      "records_derived": 0
+    },
+    {
+      "path": "gerador_docs_ia_manuais/diretrizes_arquitetura_agentes.md",
+      "bytes": 3040,
+      "sha256": "7ae6551409fc2c4c1000f88774b2a8c51eee713fa8ecf11d62f748d66dd2b4fb",
+      "status": "excluded",
+      "reason": "documentacao parcial e com recomendacoes que exigem revisao tecnica manual",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "gerador_docs_ia_manuais/documentacao_gerador_docs.md",
+      "bytes": 1440,
+      "sha256": "5b49edf1477767aa1b5c9b56da4c133d96f087a876cb565ef77c068a5545ea04",
+      "status": "excluded",
+      "reason": "documentacao parcial e com recomendacoes que exigem revisao tecnica manual",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "gerador_docs_ia_manuais/evaluation_corpus_v1.md",
+      "bytes": 2337,
+      "sha256": "511fdbf5160f643fa75f1768dc9e94bccaedf6cc64006e59d17c44f9ca86cd03",
+      "status": "excluded",
+      "reason": "documentacao parcial e com recomendacoes que exigem revisao tecnica manual",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "gerador_docs_ia_manuais/FONTE.md",
+      "bytes": 426,
+      "sha256": "faf0e6b295d12f9776d2d254085d203c5557ce1533ebe2df2ace7bb19b95e3d7",
+      "status": "excluded",
+      "reason": "documentacao parcial e com recomendacoes que exigem revisao tecnica manual",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "gerador_docs_ia_manuais/guia_erros_deploy.md",
+      "bytes": 4197,
+      "sha256": "471683bb629d9df0ffc85f75e80d54c0a7415a276c63e08620f6696a1b2a0562",
+      "status": "excluded",
+      "reason": "documentacao parcial e com recomendacoes que exigem revisao tecnica manual",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "README.md",
+      "bytes": 1059,
+      "sha256": "c256a4af29fd1cbbaa30fcb7ff5cdcb26472e86601c2133934a6378eeaaa0a93",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    }
+  ],
+  "summary": {
+    "used_files": 14,
+    "excluded_files": 72,
+    "used_files_with_sensitive_patterns": 1,
+    "excluded_files_with_sensitive_patterns": 8
+  }
+}

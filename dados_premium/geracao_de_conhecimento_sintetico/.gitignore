@@ -1,0 +1,7 @@
+# Os scripts fazem parte do pacote reproduzível, apesar do *.py ignorado na raiz.
+!scripts/
+!scripts/generate_dataset.py
+!scripts/audit_dataset.py
+
+scripts/__pycache__/
+*.pyc

@@ -1,0 +1,51 @@
+[
+  {
+    "model": "opencode/big-pickle",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  },
+  {
+    "model": "opencode/nemotron-3-ultra-free",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  },
+  {
+    "model": "opencode/nemotron-3.5-lightning-free",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  },
+  {
+    "model": "opencode/mimo-v2.5-free",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  },
+  {
+    "model": "opencode/hy3-free",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  },
+  {
+    "model": "opencode/ling-3.0-flash-fin-free",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  },
+  {
+    "model": "opencode/muse-spark-1.2-contributor-free",
+    "status": "FALHA",
+    "items": 0,
+    "tempo_segundos": 0,
+    "info": "[WinError 2] O sistema não pode encontrar o arquivo especificado"
+  }
+]

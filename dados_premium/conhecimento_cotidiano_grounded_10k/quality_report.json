@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "generated_at_utc": "2026-08-28T21:52:57+00:00",
+  "status": "PASS",
+  "target": 10000,
+  "pair_count": 10000,
+  "passage_count": 1111,
+  "external_model_calls": 0,
+  "network_calls_during_generation": 0,
+  "literal_offset_matches": 10000,
+  "literal_instruction_matches": 10000,
+  "ambiguous_answer_occurrences": 0,
+  "duplicate_ids": 0,
+  "duplicate_instructions": 0,
+  "duplicate_outputs_normalized": 0,
+  "cross_split_cluster_leaks": 0,
+  "counts_by_category": {
+    "consumidor": 4777,
+    "saude": 5223
+  },
+  "counts_by_split": {
+    "test": 476,
+    "train": 9011,
+    "validation": 513
+  },
+  "counts_by_source": {
+    "planalto_cdc": 683,
+    "planalto_comercio_eletronico": 56,
+    "planalto_sac": 97,
+    "planalto_sndc": 606,
+    "procon_afixacao_precos_2023": 104,
+    "procon_comercio_eletronico_2024": 158,
+    "procon_consumidor_consciente_2026": 154,
+    "procon_consumidor_idoso_2022": 432,
+    "procon_educacao_financeira_2022": 432,
+    "procon_eletroeletronicos_2022": 109,
+    "procon_epdc": 592,
+    "procon_lgpd_2025": 262,
+    "procon_medicamentos_2025": 110,
+    "procon_nocoes_basicas_2026": 88,
+    "procon_pcd_2024": 111,
+    "procon_recall_2022": 56,
+    "procon_servicos_bancarios_2022": 253,
+    "procon_supermercados_2026": 474,
+    "saude_guia_alimentar_criancas": 2604,
+    "saude_instrutivo_nutricao_atencao_basica": 1398,
+    "saude_manual_guia_alimentar": 1221
+  },
+  "counts_by_template": {
+    "literal_01": 867,
+    "literal_02": 802,
+    "literal_03": 860,
+    "literal_04": 781,
+    "literal_05": 848,
+    "literal_06": 824,
+    "literal_07": 838,
+    "literal_08": 852,
+    "literal_09": 885,
+    "literal_10": 805,
+    "literal_11": 811,
+    "literal_12": 827
+  },
+  "filters": {
+    "pii": [
+      "email",
+      "cpf_cnpj",
+      "phone",
+      "cep",
+      "payment_card"
+    ],
+    "secrets": true,
+    "editorial_noise": true,
+    "health_dose_and_medication_commands": true
+  }
+}
