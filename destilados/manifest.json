@@ -186,8 +186,9 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-28",
-      "sha256": "fde06ab75e5ddfdcd16a410ab68c6787bab6be9c4b0ab98c1273bc972556a20a",
-      "linhas": 12001
+      "sha256": "c0315bc59d2e3f1ef7c8fe13dcc7e10d98b52fc89ef47d8ef02ab019df2d9907",
+      "linhas": 11969,
+      "limpeza_28_08": "removidas 32 linhas malformadas (list/str no lugar de par); carimbo de linhagem aplicado"
     },
     "dataset_52k_final/dataset_02_instrucao_verificada.jsonl": {
       "fonte": "Curadoria/geracao DeepSeek (API oficial)",
@@ -255,7 +256,7 @@
     }
   },
   "total_arquivos": 29,
-  "total_pares_aprox": 56510,
+  "total_pares_aprox": 56478,
   "licenca": "MIT — dados gerados/reorganizados por DeepSeek (pesos MIT, Open Weights); sem conteudo de modelos de licenca restritiva",
   "auditoria_28_08": {
     "validador": "0 erros apos corte de 14 linhas defeituosas (contexto-fantasma/artefato-chat)",
