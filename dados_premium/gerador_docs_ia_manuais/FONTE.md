@@ -1,0 +1,4 @@
+- **De onde veio**: Repositório local `gerador-de-documentos-ia` (manuais de arquitetura, integração com Claude/Gemini, guia de deploy).
+- **Licença**: Autoria própria (Domínio do usuário Maxuel Campos).
+- **O que já foi feito**: Copiados apenas os arquivos Markdown `.md` de documentação técnica.
+- **O que sabidamente ainda está sujo**: Pode fazer referência a trechos de código que não foram copiados junto.

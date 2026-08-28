@@ -1,0 +1,2 @@
+@../AI_CONTEXT.md
+@GEMINI.md
