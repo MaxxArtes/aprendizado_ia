@@ -61,7 +61,7 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "153685a0a5f37d39ad1e51c761d52295e06c9d874be275cdca0476b62efcf5e3",
+      "sha256": "b9a83e7f4b07b8d20b14b2d5dfea42a9a7754d336bee49cbbaebdc885dc051b5",
       "linhas": 235,
       "mascara_ip_28_08": "13 campos: IPs de producao -> placeholder (<SERVIDOR_ARM> etc.)"
     },
