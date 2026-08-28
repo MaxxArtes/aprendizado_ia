@@ -5,10 +5,10 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "de8eeb36257bf65bc179cbc129e0b51b82c07a03919f393468ab7a29ecd2e939",
+      "sha256": "3aa1dbc6784e3fb69db85fdfa46d1f141233cf9c07f475bc61d15693e4719dab",
       "corte_contaminacao_28_08": {
-        "linhas_removidas": 7,
-        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6); indices FRESCOS da auditoria de 28/08 04:00; corte v1 (indices velhos) revertido aqui"
+        "linhas_removidas": 8,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
       }
     },
     "dataset_01_recusa_diagnostico.jsonl": {
@@ -44,10 +44,10 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "2e88f99c14b72fb368f8d8247d399a1661cac751dd3932106c629a04fb1588b7",
+      "sha256": "5a246848a1a512af4390800e33d5947fde5352c53acb997b967c44338e20111c",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 2,
-        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6); indices FRESCOS da auditoria de 28/08 04:00; corte v1 (indices velhos) revertido aqui"
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
       }
     },
     "dataset_06_docs_tecnicos_lote_2.jsonl": {
@@ -69,10 +69,10 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "115ffe2294b7bc2fa34ff5c4fa56e4746ba5b902c8c91570efc8954da3d4ce83",
+      "sha256": "1c3bac75be386aaf92c020dcd330319eb3a07e6123985255f392ea175088521f",
       "corte_contaminacao_28_08": {
-        "linhas_removidas": 30,
-        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6); indices FRESCOS da auditoria de 28/08 04:00; corte v1 (indices velhos) revertido aqui"
+        "linhas_removidas": 32,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
       }
     },
     "dataset_09_lora_antigo_test.jsonl": {
@@ -80,10 +80,10 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "d2e60dc14c2cdf56d89cf257fa7b11c6e47a9b55623c3e93b6a5dd9c1ea46580",
+      "sha256": "eb0b7e81c80e4e4f932179af9a10c30b8179fe27a1352fde8ce29326d3f1e635",
       "corte_contaminacao_28_08": {
         "linhas_removidas": 7,
-        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6); indices FRESCOS da auditoria de 28/08 04:00; corte v1 (indices velhos) revertido aqui"
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
       }
     },
     "dataset_10_lora_antigo_val.jsonl": {
@@ -91,10 +91,10 @@
       "gerador_reorganizador": "DeepSeek",
       "canal": "API",
       "data": "2026-08-27",
-      "sha256": "46efad941da2b583342d6c2e987b2380fe6d4cfeabd6d1cef47fd498b4e8b197",
+      "sha256": "5b1e1a282290fbf6eebcf5aa5e76d4aede3dc3f62475a66ab3717f0eefaced39",
       "corte_contaminacao_28_08": {
-        "linhas_removidas": 6,
-        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (commit 56144a6); indices FRESCOS da auditoria de 28/08 04:00; corte v1 (indices velhos) revertido aqui"
+        "linhas_removidas": 7,
+        "motivo": "sobreposicao 8-gramas >=5% com lora da era frontier (56144a6); corte v3 definitivo — v1/v2 erraram por indice 1-based lido como 0-based; residuo re-medido localmente = 0 antes do push"
       }
     }
   }
