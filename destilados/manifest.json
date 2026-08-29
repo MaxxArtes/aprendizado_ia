@@ -253,6 +253,45 @@
       "data": "2026-08-28",
       "sha256": "ca1cae2fd94b81eb272a88813af9c80c3d624400f52072c9d3414d58519c5b6a",
       "linhas": 5000
+    },
+    "ab_qwen_deepseek/lote_A.jsonl": {
+      "fonte": "escuta-e-corrige A/B pre-registrado (controle DeepSeek)",
+      "gerador_reorganizador": "deepseek-v4-flash-0731 (pesos MIT)",
+      "canal": "Vultr serverless",
+      "data": "2026-08-29",
+      "corte_contaminacao": "2 artefatos de chat + 49 indices >=5% 8-gramas vs escuta_val, cortados SIMETRICOS nos 3 lotes",
+      "sha256": "649aa6ca41f96fed92bea81a87c6ccca04bd842459412e091ae59499151bc933"
+    },
+    "ab_qwen_deepseek/lote_B.jsonl": {
+      "fonte": "escuta-e-corrige A/B pre-registrado (candidato Qwen)",
+      "gerador_reorganizador": "qwen3.8-27b (Apache 2.0, thinking desligado)",
+      "canal": "Vultr serverless",
+      "data": "2026-08-29",
+      "corte_contaminacao": "mesmos indices do lote_A (agenda pareada)",
+      "sha256": "00b793e7de7fb491b72fb283520780daf6b1f067bd322649da8e0317afd37d11"
+    },
+    "ab_qwen_deepseek/lote_AB.jsonl": {
+      "fonte": "escuta-e-corrige A/B pre-registrado (50/50 por paridade de indice)",
+      "gerador_reorganizador": "deepseek-v4-flash-0731 + qwen3.8-27b",
+      "canal": "Vultr serverless",
+      "data": "2026-08-29",
+      "corte_contaminacao": "mesmos indices dos lotes A/B",
+      "sha256": "ee0b84c4ef031f2ec5fd086822dec3353692f755977f0cfa8a0034b491678aff"
+    },
+    "conhecimento_cotidiano/conhec_treino.jsonl": {
+      "fonte": "conhecimento cotidiano BR (24 temas, anti-invencao)",
+      "gerador_reorganizador": "deepseek-v4-flash-0731 (pesos MIT)",
+      "canal": "Vultr serverless",
+      "data": "2026-08-29",
+      "corte_contaminacao": "dedup por entrada; 200 pares separados em conhec_val ANTES do treino",
+      "sha256": "07040f6c04d2631f20c044cedee560af19c53cb249c99838dc6c11335fa6a375"
+    },
+    "conhecimento_cotidiano/conhec_val.jsonl": {
+      "fonte": "held-out do conhecimento cotidiano (NUNCA treina)",
+      "gerador_reorganizador": "deepseek-v4-flash-0731 (pesos MIT)",
+      "canal": "Vultr serverless",
+      "data": "2026-08-29",
+      "sha256": "48203e95bb67e79e597bcb5024c44387a11f8fdfc4d0fe7cad9393aaead5b8f7"
     }
   },
   "total_arquivos": 29,
