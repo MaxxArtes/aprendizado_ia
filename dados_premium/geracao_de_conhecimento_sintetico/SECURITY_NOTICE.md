@@ -1,6 +1,6 @@
 # Aviso de segurança das fontes excluídas
 
-Na inspeção local de 2026-08-28, uma nota em `../notas_pessoais` continha um token
+Na inspeção local de 2026-08-31, uma nota em `../notas_pessoais` continha um token
 aparentemente operacional em texto claro,
 além de domínios e detalhes de infraestrutura identificáveis. Todo o diretório foi excluído
 da geração por lista positiva; nenhum valor sensível foi copiado para os datasets.
