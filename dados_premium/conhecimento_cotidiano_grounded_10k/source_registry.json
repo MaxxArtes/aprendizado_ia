@@ -91,8 +91,8 @@
       "retrieved_at_utc": "2026-08-28T21:49:47+00:00",
       "http_status": 200,
       "content_type": "text/html",
-      "bytes": 169132,
-      "sha256": "d46403e7e3c9f313dcd521356b720be006009cdedd4d65f9ac593849798c4dd3",
+      "bytes": 166426,
+      "sha256": "4bd473a0d2131b66d2cde741b27b417f7ba4f86588332effa78a7737b62a5e33",
       "etag": "\"28e95-650289e59d26b\"",
       "last_modified": "Thu, 23 Apr 2026 23:00:45 GMT"
     },
@@ -135,8 +135,8 @@
       "retrieved_at_utc": "2026-08-28T21:49:47+00:00",
       "http_status": 200,
       "content_type": "text/html",
-      "bytes": 44816,
-      "sha256": "e0891c3078c95477cf2c5c00a3cdc4d04e9680cd449d23d70cd04e95dc46da0b",
+      "bytes": 43922,
+      "sha256": "90bb0718de3b3b66f0446b8ae2b044830fa36040252adb9bf5bbb4aaea441dcf",
       "etag": "\"a8f9-6502916742895\"",
       "last_modified": "Thu, 23 Apr 2026 23:34:20 GMT"
     },
@@ -157,8 +157,8 @@
       "retrieved_at_utc": "2026-08-28T21:49:48+00:00",
       "http_status": 200,
       "content_type": "text/html",
-      "bytes": 171611,
-      "sha256": "1f0b41e440cda422ff00fa1449547ef6b268d7cf130158ec7fb46ed229dac71e",
+      "bytes": 169234,
+      "sha256": "756878be4452176879d3ea5589e50e353be62c6dc59f883edba709e55780d058",
       "etag": "\"29844-650289bdf4ced\"",
       "last_modified": "Thu, 23 Apr 2026 23:00:04 GMT"
     },
@@ -179,8 +179,8 @@
       "retrieved_at_utc": "2026-08-28T21:49:51+00:00",
       "http_status": 200,
       "content_type": "text/html",
-      "bytes": 1927118,
-      "sha256": "63cc6f4803ff4c3a5c0ab9668f2a5590b745df4fedf343911fb8bc54bb24094c",
+      "bytes": 1916939,
+      "sha256": "fad33b4a2dd74bdc3569005d99b6c6a92badb7e00fc0115a0cf4aaa159d95713",
       "etag": null,
       "last_modified": null
     },
@@ -500,8 +500,8 @@
       "retrieved_at_utc": "2026-08-28T21:50:02+00:00",
       "http_status": 200,
       "content_type": "text/html",
-      "bytes": 148434,
-      "sha256": "edcbffcd58d10950234e5ff370915e939133a0dcbf73a523a6da7dd3ce8aa668",
+      "bytes": 145964,
+      "sha256": "655d63c6d2f7a9bfbc2f456e43f99fb6c3038f07aa516a36501f0034285e84c3",
       "etag": "\"23dbb-650289ecba70b\"",
       "last_modified": "Thu, 23 Apr 2026 23:00:53 GMT"
     }

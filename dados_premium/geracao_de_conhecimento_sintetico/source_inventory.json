@@ -178,6 +178,51 @@
       "records_derived": 10
     },
     {
+      "path": "conhecimento_busca_e_extracao_1k/dataset/premium_grounded.jsonl",
+      "bytes": 3148109,
+      "sha256": "9ab104bfdea5772f91bf7c6599bdcc8d53ab2ddf38459c1bdb05093871429ea8",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_busca_e_extracao_1k/dataset/premium_sft.jsonl",
+      "bytes": 2436885,
+      "sha256": "c05d19ecc8a13286205c46a3676a7c96e7414507ddf9ef887e06131c6eeb72b3",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_busca_e_extracao_1k/FONTE.md",
+      "bytes": 317,
+      "sha256": "dc21f5d8b888776eca4924f7bbd62951299742a99139fdcd5fa844402a4c0806",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_busca_e_extracao_1k/README.md",
+      "bytes": 391,
+      "sha256": "da3968279f9797989d924f5bd0d24d8655611089c8c1872d88c6c2f548e4822b",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_busca_e_extracao_1k/SHA256SUMS",
+      "bytes": 344,
+      "sha256": "500a87987868fc9d52e7eafc89c57f4a880b1ddb67b1454a621078560579a0e5",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
       "path": "conhecimento_cotidiano_grounded_10k/audit_report.json",
       "bytes": 2022,
       "sha256": "b78a7c95c6b4cbaa3c47612c8a7abaf35bca408b093440efa3128720c5c6e84a",
@@ -323,8 +368,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/SHA256SUMS",
-      "bytes": 3876,
-      "sha256": "ee67813968845aec73d4bb51cddab242470b946984a77e3ba40463013bf69426",
+      "bytes": 3915,
+      "sha256": "328e7fbd393f4c3f9a48be73c483e326e25d27d109e898f9ff4ba94f7f18558d",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -361,8 +406,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/sources/raw/licenca_planalto_lei_9610.html",
-      "bytes": 148434,
-      "sha256": "edcbffcd58d10950234e5ff370915e939133a0dcbf73a523a6da7dd3ce8aa668",
+      "bytes": 145964,
+      "sha256": "655d63c6d2f7a9bfbc2f456e43f99fb6c3038f07aa516a36501f0034285e84c3",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -370,8 +415,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_cdc.html",
-      "bytes": 169132,
-      "sha256": "d46403e7e3c9f313dcd521356b720be006009cdedd4d65f9ac593849798c4dd3",
+      "bytes": 166426,
+      "sha256": "4bd473a0d2131b66d2cde741b27b417f7ba4f86588332effa78a7737b62a5e33",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -379,8 +424,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_decreto_11034.html",
-      "bytes": 44816,
-      "sha256": "e0891c3078c95477cf2c5c00a3cdc4d04e9680cd449d23d70cd04e95dc46da0b",
+      "bytes": 43922,
+      "sha256": "90bb0718de3b3b66f0446b8ae2b044830fa36040252adb9bf5bbb4aaea441dcf",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -388,8 +433,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/sources/raw/planalto_decreto_2181.html",
-      "bytes": 171611,
-      "sha256": "1f0b41e440cda422ff00fa1449547ef6b268d7cf130158ec7fb46ed229dac71e",
+      "bytes": 169234,
+      "sha256": "756878be4452176879d3ea5589e50e353be62c6dc59f883edba709e55780d058",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -460,8 +505,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/sources/raw/procon_epdc.html",
-      "bytes": 1927118,
-      "sha256": "63cc6f4803ff4c3a5c0ab9668f2a5590b745df4fedf343911fb8bc54bb24094c",
+      "bytes": 1916939,
+      "sha256": "fad33b4a2dd74bdc3569005d99b6c6a92badb7e00fc0115a0cf4aaa159d95713",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [
@@ -561,193 +606,6 @@
       "records_derived": 0
     },
     {
-      "path": "geracao_opencode_gratuitos/dataset_big_pickle.jsonl",
-      "bytes": 1026821,
-      "sha256": "e9e684426d28e3e42d028ae3033645e06939de839fd3f40882bd1b3a7053a215",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/dataset_hy3_free.jsonl",
-      "bytes": 358814,
-      "sha256": "ad644084094ad75612403a22e89f8a53bdce3e2b8b659d0216fbd6be126f6a52",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/dataset_ling_3_0_flash_fin_free.jsonl",
-      "bytes": 334874,
-      "sha256": "1a62c15aebb800584bc55c05ddb145a141c8216d2b796457e26917149c01b43f",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/dataset_mimo_v2_5_free.jsonl",
-      "bytes": 283542,
-      "sha256": "a45618503f778f37bf95861bc15d0211317c6058c205ed6b9d7b5715041fdde0",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/dataset_nemotron_3_ultra_free.jsonl",
-      "bytes": 345054,
-      "sha256": "b79e6a7b5258fe3a3cb5098ca1fa08e81a6cefbfda489fc4f0ffa05ab6c0f4df",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/gerador_maxima_capacidade.py",
-      "bytes": 10977,
-      "sha256": "d59c908670d5ecb6d1cdfd19cce5d0810b4cde6701bfe25d7e93fe16e79fa9b9",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [
-        "assigned_secret",
-        "provider_token"
-      ],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/gerador_paralelo_opencode.py",
-      "bytes": 11814,
-      "sha256": "96d6b637a4d168ccb5c22b2014bc27674cd44ee8194c48c661e57d034c09f370",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [
-        "assigned_secret",
-        "provider_token"
-      ],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/gerar_com_modelos_opencode.py",
-      "bytes": 9411,
-      "sha256": "763747a2521be22aae4293f5df7911e2c231688706f1a112394325a5c2dd2229",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [
-        "assigned_secret",
-        "provider_token"
-      ],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/gerar_dados_busca_extracao_opencode.py",
-      "bytes": 17007,
-      "sha256": "620e3d6923963a8ebf0d710cbb67ae32632146a732d8467365239e6c115b7099",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [
-        "assigned_secret",
-        "provider_token"
-      ],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/manifest_dataset_opencode.json",
-      "bytes": 1907,
-      "sha256": "8db3189b282a158f379b7474e610e8180014ca1e31fd284efab790e38c06f6a9",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/relatorio_geracao_modelos.json",
-      "bytes": 1339,
-      "sha256": "9ed0915adf60d5f9238617a4d729d38aed95f6be339b20536d66de48dfc14f36",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/relatorio_modelos_gratuitos.json",
-      "bytes": 1439,
-      "sha256": "f1d0bc65520d18a7ed399c312c1d2a3c406361bb07fbdc071d05bb638a8c4f95",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_opencode_gratuitos/testar_todos_ao_vivo.py",
-      "bytes": 1491,
-      "sha256": "51014d3d13300f6cd43db2b2889cd5f258ef34873c2d2f52b2c1d5518fc2ea03",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [
-        "provider_token"
-      ],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_openrouter_gratuitos/dataset_openrouter_cohere_north_mini_code_free.jsonl",
-      "bytes": 36130,
-      "sha256": "daa790c81899ce0bd30d8ae07e693d7b053509b73f911ba009520635da1bbeb4",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_openrouter_gratuitos/dataset_openrouter_dots_studio_dots_3_note_preview_free.jsonl",
-      "bytes": 65243,
-      "sha256": "8da3bfad7b35bd0b00eec78a6aabbe02a14c63f68700f79e5ac343a8fa1d5395",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_openrouter_gratuitos/dataset_openrouter_minimax_minimax_m2_7_free.jsonl",
-      "bytes": 295609,
-      "sha256": "170be545a31fc3ba8e3f7a7a299872b87b6cfdfa6a5cdbe1fddb4e98ea4aa952",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_openrouter_gratuitos/dataset_openrouter_minimax_minimax_m3_free.jsonl",
-      "bytes": 213561,
-      "sha256": "b3228d62c9ec3a0678a7f15f69f61dfac2b9a5f9fb14a515ac7b5ba7a47fb1c6",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_openrouter_gratuitos/dataset_openrouter_openrouter_free.jsonl",
-      "bytes": 38791,
-      "sha256": "7225434167909cb5853ed382ed428d2b1113f97f17008d09c2951a9aa7c9ad15",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
-      "records_derived": 0
-    },
-    {
-      "path": "geracao_openrouter_gratuitos/gerador_openrouter.py",
-      "bytes": 10557,
-      "sha256": "2cf1f4494147b93682cfac13237da871934a75e823c821707b4ee1ab18bd97cc",
-      "status": "excluded",
-      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [
-        "provider_token"
-      ],
-      "records_derived": 0
-    },
-    {
       "path": "gerador_docs_ia_manuais/diretrizes_arquitetura_agentes.md",
       "bytes": 3040,
       "sha256": "7ae6551409fc2c4c1000f88774b2a8c51eee713fa8ecf11d62f748d66dd2b4fb",
@@ -804,8 +662,8 @@
   ],
   "summary": {
     "used_files": 14,
-    "excluded_files": 72,
+    "excluded_files": 58,
     "used_files_with_sensitive_patterns": 1,
-    "excluded_files_with_sensitive_patterns": 8
+    "excluded_files_with_sensitive_patterns": 2
   }
 }
