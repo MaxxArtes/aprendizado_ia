@@ -3,7 +3,7 @@
 - **De onde veio**: snapshot local `../aprendizados_tecnicos`, material técnico de autoria
   de Maxuel Campos. A URL/edição original não está registrada no `FONTE.md` recebido e não
   foi inferida. A edição usada é identificada pelos hashes em `source_inventory.json`.
-- **Data desta coleta**: 2026-08-31.
+- **Data desta coleta**: 2026-09-04.
 - **Licença**: MIT (`SPDX-License-Identifier: MIT`), conforme
   `../aprendizados_tecnicos/LICENSE`.
 - **O que foi feito**: seleção por lista positiva, parsing de lições estruturadas,
