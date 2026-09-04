@@ -160,6 +160,15 @@
       "records_derived": 32
     },
     {
+      "path": "aprendizados_tecnicos/SHA256SUMS",
+      "bytes": 1610,
+      "sha256": "80de645c8f67c95222fb77cd5406b283fc24574534699f8382c1e0b8ea33780a",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
       "path": "aprendizados_tecnicos/treino-de-modelos.md",
       "bytes": 31675,
       "sha256": "1d36a81ec4fdc4e336d2c056c8f42a67e89fe7b81e9b9aa7d08c4a7effaa3ede",
@@ -179,26 +188,32 @@
     },
     {
       "path": "conhecimento_busca_e_extracao_1k/dataset/premium_grounded.jsonl",
-      "bytes": 3148109,
-      "sha256": "9ab104bfdea5772f91bf7c6599bdcc8d53ab2ddf38459c1bdb05093871429ea8",
+      "bytes": 1470507,
+      "sha256": "6da8b17f1879a99733770b1035b1c5bfc7b73f9624f11af1d1bfc1376542f4c8",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
+      "sensitive_pattern_categories": [
+        "credential_url",
+        "email"
+      ],
       "records_derived": 0
     },
     {
       "path": "conhecimento_busca_e_extracao_1k/dataset/premium_sft.jsonl",
-      "bytes": 2436885,
-      "sha256": "c05d19ecc8a13286205c46a3676a7c96e7414507ddf9ef887e06131c6eeb72b3",
+      "bytes": 849445,
+      "sha256": "26cde6c3df44fb46a8dea979a160dd2fbcec763809b5e3fe2ab8cd9c07d9b8f4",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
-      "sensitive_pattern_categories": [],
+      "sensitive_pattern_categories": [
+        "credential_url",
+        "email"
+      ],
       "records_derived": 0
     },
     {
       "path": "conhecimento_busca_e_extracao_1k/FONTE.md",
-      "bytes": 317,
-      "sha256": "dc21f5d8b888776eca4924f7bbd62951299742a99139fdcd5fa844402a4c0806",
+      "bytes": 312,
+      "sha256": "4084f34385b629620aa0319c383e58656060166816816f0e826d185c306132c3",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -206,8 +221,8 @@
     },
     {
       "path": "conhecimento_busca_e_extracao_1k/README.md",
-      "bytes": 391,
-      "sha256": "da3968279f9797989d924f5bd0d24d8655611089c8c1872d88c6c2f548e4822b",
+      "bytes": 382,
+      "sha256": "9612be69077435b033dc70e43df1fb173af139a8349dd351d4dacd40a3563f3c",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -216,7 +231,7 @@
     {
       "path": "conhecimento_busca_e_extracao_1k/SHA256SUMS",
       "bytes": 344,
-      "sha256": "500a87987868fc9d52e7eafc89c57f4a880b1ddb67b1454a621078560579a0e5",
+      "sha256": "566241a56d829eabbe04ea185a40dcbe1190d529404c12744b4dad18dd4cde4d",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -225,7 +240,43 @@
     {
       "path": "conhecimento_cotidiano_grounded_10k/audit_report.json",
       "bytes": 2022,
-      "sha256": "b78a7c95c6b4cbaa3c47612c8a7abaf35bca408b093440efa3128720c5c6e84a",
+      "sha256": "3c3e5bb0b951af94947074c633291f1047989e005d1fd124485c8cae73553a29",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/academic_nc_saude_5223.jsonl",
+      "bytes": 22987601,
+      "sha256": "b8ea89089a39351d4888f90b788acebc9473041bea73bae4307fc2a4e0519d29",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/academic_nc_sft_5223.jsonl",
+      "bytes": 8743249,
+      "sha256": "487ccca3b24dd7a2ab4b1846ab833e89775201dc24d16c2e470baf8c2d825995",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/commercial_safe_consumidor_4777.jsonl",
+      "bytes": 19808566,
+      "sha256": "960f1c6535a3f961031949a6e7b219cca82b5dbcabf0aa04731d38d617cf6ca7",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
+      "path": "conhecimento_cotidiano_grounded_10k/dataset/commercial_safe_sft_4777.jsonl",
+      "bytes": 7782969,
+      "sha256": "9c38af0addcdae2ddd169a269942ff0089c4e571ffb2de6419e26713deabeae7",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -234,7 +285,7 @@
     {
       "path": "conhecimento_cotidiano_grounded_10k/dataset/premium_grounded_10k.jsonl",
       "bytes": 41950944,
-      "sha256": "57beeb8238009e56a507810ea777d07ded01f9d1137625da4aa45faa83878053",
+      "sha256": "d24ab8b8c81a72d327eb479490550d69d787a7ecf411373b80bf99c4f272b467",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -277,9 +328,18 @@
       "records_derived": 0
     },
     {
+      "path": "conhecimento_cotidiano_grounded_10k/FONTE.md",
+      "bytes": 2188,
+      "sha256": "d34a7954fc0daa5ac493d1510a852d55c07a5b61869598961ec905eed56e758a",
+      "status": "excluded",
+      "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
       "path": "conhecimento_cotidiano_grounded_10k/LICENSES.md",
       "bytes": 9240,
-      "sha256": "a9827a8f3bfd3a34aa3cc783e4676b0c4beac17e46cbc46c2adfe47b64add135",
+      "sha256": "64a0a6fea0fdef9874de866a0de415a84ad0faf3295dc388c7a3033873f20ba4",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -287,8 +347,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/manifest.json",
-      "bytes": 7235,
-      "sha256": "ee412a92f12b0a071a0bc6cd289ecf583e2b410f5da6525d986c789a3911c978",
+      "bytes": 8085,
+      "sha256": "cc2d21bd94db712394fb3c429a1aa1aecf9686303f10101f0a48b886b5f4460f",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -306,7 +366,7 @@
     {
       "path": "conhecimento_cotidiano_grounded_10k/quality_report.json",
       "bytes": 1958,
-      "sha256": "1c8c68a09cfafc507bebcbc9756b0b217260c11cd0eedc5f30a7aa97f9160f88",
+      "sha256": "efd90ea12a847d906de98b7a5a7994a21a579de97dfeeea4ab17baa5679978f9",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -368,8 +428,8 @@
     },
     {
       "path": "conhecimento_cotidiano_grounded_10k/SHA256SUMS",
-      "bytes": 3915,
-      "sha256": "328e7fbd393f4c3f9a48be73c483e326e25d27d109e898f9ff4ba94f7f18558d",
+      "bytes": 4372,
+      "sha256": "79a07691b7b1876ca0bde8759dd66dd85f0546bb25f71370bf12ecbf43aa78bd",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -378,7 +438,7 @@
     {
       "path": "conhecimento_cotidiano_grounded_10k/source_inventory.json",
       "bytes": 15728,
-      "sha256": "10fc07e91998d3c3bc4e465c1ebc95f7e998a82d17e347b4c3aa2ee72de45a9e",
+      "sha256": "8b9b8885b5e80a392e1125d2e28fcb56aedf02325cf37f324153cdef9060b567",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -387,7 +447,7 @@
     {
       "path": "conhecimento_cotidiano_grounded_10k/source_registry.json",
       "bytes": 23691,
-      "sha256": "9c8e741a598f0f62c78567c7d809e8353d12934d76729d7a44a64d1406571087",
+      "sha256": "9f49d4dd5ce02e56ae1fad88a282443fb2252dab58ab9cec1fabebd6a398db0d",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [],
@@ -396,7 +456,7 @@
     {
       "path": "conhecimento_cotidiano_grounded_10k/sources/processed/passages.jsonl",
       "bytes": 2446120,
-      "sha256": "699392e5cbe33fde863fb0207a2dafebeaaab1717e9a635a5d2237709bb9bb9f",
+      "sha256": "f6e819d4c9fccc979182ecf4d0a9b42ddd2b106a5b644b4c48e290d8e0ed41a3",
       "status": "excluded",
       "reason": "arquivo navegacional, duplicado, de licenca ou fora da lista positiva",
       "sensitive_pattern_categories": [
@@ -651,6 +711,15 @@
       "records_derived": 0
     },
     {
+      "path": "gerador_docs_ia_manuais/SHA256SUMS",
+      "bytes": 447,
+      "sha256": "443869b4125fb180def0abc317fbcf679abfd2b09bd7c576fce32841faf62f79",
+      "status": "excluded",
+      "reason": "documentacao parcial e com recomendacoes que exigem revisao tecnica manual",
+      "sensitive_pattern_categories": [],
+      "records_derived": 0
+    },
+    {
       "path": "README.md",
       "bytes": 1059,
       "sha256": "c256a4af29fd1cbbaa30fcb7ff5cdcb26472e86601c2133934a6378eeaaa0a93",
@@ -662,8 +731,8 @@
   ],
   "summary": {
     "used_files": 14,
-    "excluded_files": 58,
+    "excluded_files": 65,
     "used_files_with_sensitive_patterns": 1,
-    "excluded_files_with_sensitive_patterns": 2
+    "excluded_files_with_sensitive_patterns": 4
   }
 }

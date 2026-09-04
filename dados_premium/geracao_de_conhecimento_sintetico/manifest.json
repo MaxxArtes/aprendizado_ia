@@ -1,7 +1,7 @@
 {
   "name": "geracao_de_conhecimento_sintetico",
   "version": "1.0.0",
-  "generated_at_utc": "2026-08-31T12:46:41+00:00",
+  "generated_at_utc": "2026-09-04T13:21:57+00:00",
   "method": "deterministic-grounded-extractive",
   "language": "pt-BR",
   "license": "MIT",
@@ -24,8 +24,8 @@
       "sha256": "fd239da72c7a628b06d998f4ddd92e04c73f61f58648a7acd569a2a1c1abb950"
     },
     "source_inventory.json": {
-      "bytes": 27739,
-      "sha256": "3240ae486d51677a72ad30ec9c25e2a7e25681e776a7f2ec1855305f540f71bb"
+      "bytes": 30515,
+      "sha256": "ab7613f448452170e4a4d2055866dcc2f4c3761d70ff80bfe8e2796ec3935bc0"
     },
     "README.md": {
       "bytes": 2438,
@@ -33,11 +33,11 @@
     },
     "FONTE.md": {
       "bytes": 959,
-      "sha256": "2e4b1b9ee22dea3896fff8f9729517bfa77513cb5247a41e07b13adf21c223d6"
+      "sha256": "d72ad16bb8d8541ee66646f8c8afcb84eebac306f8ffce3bc7bb46b8bd0529cf"
     },
     "SECURITY_NOTICE.md": {
       "bytes": 613,
-      "sha256": "37f372d7813a11e91e2449af6e176d111358532351820a4534748b8917f9f22f"
+      "sha256": "8d0a9a8e5c7e76c58f45dddfaf032e99781e3803287a9f36e17bf4ebd015f8c9"
     },
     ".gitignore": {
       "bytes": 176,

@@ -53,7 +53,7 @@
       "license": "Brazil-L9610-Article-8-IV-official-text",
       "license_basis_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
       "raw_relative_path": "sources/raw/planalto_cdc.html",
-      "raw_sha256": "d46403e7e3c9f313dcd521356b720be006009cdedd4d65f9ac593849798c4dd3",
+      "raw_sha256": "4bd473a0d2131b66d2cde741b27b417f7ba4f86588332effa78a7737b62a5e33",
       "passages": 46,
       "pairs": 683
     },
@@ -81,7 +81,7 @@
       "license": "Brazil-L9610-Article-8-IV-official-text",
       "license_basis_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
       "raw_relative_path": "sources/raw/planalto_decreto_11034.html",
-      "raw_sha256": "e0891c3078c95477cf2c5c00a3cdc4d04e9680cd449d23d70cd04e95dc46da0b",
+      "raw_sha256": "90bb0718de3b3b66f0446b8ae2b044830fa36040252adb9bf5bbb4aaea441dcf",
       "passages": 7,
       "pairs": 97
     },
@@ -95,7 +95,7 @@
       "license": "Brazil-L9610-Article-8-IV-official-text",
       "license_basis_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
       "raw_relative_path": "sources/raw/planalto_decreto_2181.html",
-      "raw_sha256": "1f0b41e440cda422ff00fa1449547ef6b268d7cf130158ec7fb46ed229dac71e",
+      "raw_sha256": "756878be4452176879d3ea5589e50e353be62c6dc59f883edba709e55780d058",
       "passages": 37,
       "pairs": 606
     },
@@ -109,7 +109,7 @@
       "license": "Procon-SP-reproduction-with-attribution",
       "license_basis_url": "https://www.procon.sp.gov.br/epdc/",
       "raw_relative_path": "sources/raw/procon_epdc.html",
-      "raw_sha256": "63cc6f4803ff4c3a5c0ab9668f2a5590b745df4fedf343911fb8bc54bb24094c",
+      "raw_sha256": "fad33b4a2dd74bdc3569005d99b6c6a92badb7e00fc0115a0cf4aaa159d95713",
       "passages": 33,
       "pairs": 592
     },

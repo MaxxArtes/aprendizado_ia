@@ -37,7 +37,7 @@ Verifique os termos originais antes de redistribuir ou usar comercialmente.
 - Fonte: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
 - Regime registrado: Brazil-L9610-Article-8-IV-official-text
 - Base/licença: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
-- SHA-256 do snapshot: d46403e7e3c9f313dcd521356b720be006009cdedd4d65f9ac593849798c4dd3
+- SHA-256 do snapshot: 4bd473a0d2131b66d2cde741b27b417f7ba4f86588332effa78a7737b62a5e33
 
 ## Decreto 7.962/2013 - comercio eletronico
 
@@ -55,7 +55,7 @@ Verifique os termos originais antes de redistribuir ou usar comercialmente.
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm
 - Regime registrado: Brazil-L9610-Article-8-IV-official-text
 - Base/licença: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
-- SHA-256 do snapshot: e0891c3078c95477cf2c5c00a3cdc4d04e9680cd449d23d70cd04e95dc46da0b
+- SHA-256 do snapshot: 90bb0718de3b3b66f0446b8ae2b044830fa36040252adb9bf5bbb4aaea441dcf
 
 ## Decreto 2.181/1997 - Sistema Nacional de Defesa do Consumidor
 
@@ -64,7 +64,7 @@ Verifique os termos originais antes de redistribuir ou usar comercialmente.
 - Fonte: https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm
 - Regime registrado: Brazil-L9610-Article-8-IV-official-text
 - Base/licença: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
-- SHA-256 do snapshot: 1f0b41e440cda422ff00fa1449547ef6b268d7cf130158ec7fb46ed229dac71e
+- SHA-256 do snapshot: 756878be4452176879d3ea5589e50e353be62c6dc59f883edba709e55780d058
 
 ## Estudos e Pesquisas - Cartilhas e Conteudos
 
@@ -73,7 +73,7 @@ Verifique os termos originais antes de redistribuir ou usar comercialmente.
 - Fonte: https://www.procon.sp.gov.br/epdc/
 - Regime registrado: Procon-SP-reproduction-with-attribution
 - Base/licença: https://www.procon.sp.gov.br/epdc/
-- SHA-256 do snapshot: 63cc6f4803ff4c3a5c0ab9668f2a5590b745df4fedf343911fb8bc54bb24094c
+- SHA-256 do snapshot: fad33b4a2dd74bdc3569005d99b6c6a92badb7e00fc0115a0cf4aaa159d95713
 
 ## Nocoes basicas sobre direitos do consumidor
 
