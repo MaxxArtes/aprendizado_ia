@@ -23,7 +23,11 @@ destilados/<assunto>-lora-distillation/
 
 ### Datasets Prontos (`destilados/`)
 
-O repositório já conta com **10 lotes de dados purificados** (em `.jsonl`) prontos para treinamento (Supervised Fine-Tuning).
+Além dos lotes abaixo, `destilados/dataset_52k_final/` (~52 mil pares em categorias),
+`destilados/ab_qwen_deepseek/` e `destilados/conhecimento_cotidiano/` trazem conjuntos
+maiores; `destilados/manifest.json` lista os arquivos com contagem e sha256.
+
+O repositório conta com **10 lotes de dados purificados** (em `.jsonl`) prontos para treinamento (Supervised Fine-Tuning).
 Estes dados passaram por uma rigorosa **esteira de curadoria e reescrita utilizando o modelo DeepSeek**, garantindo que:
 1. **Zero Contaminação de IA:** Não há jargões de assistentes virtuais ("Como modelo de linguagem...", "Aqui está...", etc).
 2. **Zero Contexto Fantasma:** As respostas não citam referências externas que o modelo final não terá acesso (ex: "Segundo o texto fornecido...").
@@ -77,9 +81,16 @@ não se versiona - se baixa.
 
 ## Licença
 
-Este projeto é disponibilizado sob a licença **MIT** (veja o arquivo `LICENSE`).
+O código e o texto de autoria própria deste repositório estão sob a licença **MIT** (veja
+o arquivo `LICENSE`). Conteúdo derivado de fontes de terceiros segue a licença de cada
+fonte, registrada nos `LICENSES.md`/`FONTE.md` das pastas, e não passa a ser MIT por estar
+aqui. Em `dados_premium/conhecimento_cotidiano_grounded_10k/`, os arquivos `academic_nc_*`
+derivam de fontes **CC-BY-NC-SA 4.0** (uso não comercial, compartilhamento pela mesma
+licença). Os `commercial_safe_*` foram separados por vir de fontes que, segundo esse
+registro, permitem uso comercial — isso não é parecer jurídico; confira os termos de cada
+fonte antes de redistribuir ou usar comercialmente.
 
-Isso significa que pesquisadores, estudantes e desenvolvedores podem clonar, modificar, 
-distribuir e usar este dataset livremente para treinar modelos (inclusive comerciais), 
-bastando manter os créditos do autor original.
+Para a parte sob MIT, é permitido usar, copiar, modificar e distribuir (inclusive para fins
+comerciais), desde que o aviso de copyright e o aviso de permissão do arquivo `LICENSE`
+sejam incluídos em todas as cópias ou partes substanciais.
 A ideia é ser uma contribuição de qualidade, estruturada e limpa para a comunidade open-source.
